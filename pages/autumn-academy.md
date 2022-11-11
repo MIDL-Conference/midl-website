@@ -16,7 +16,7 @@ opengraph:
 We proudly present the first edition of the next regular online event in the annual calendar of MIDL: The Autumn Academy! Feel warmly welcomed to grab a cup of tea, curl up in a cozy blanket in front of your device and join a tutorial to train your research skills.
 And for this first edition, we chose one of the most important yet one of the most under-represented research skills to train: Reproducibility!
 
-The Autumn Academy will take place on **November 30 2022** and will start at **15:00 CET**. The tutorial will be held virtually via Zoom, and of course, there will be a Get-Together afterwards in our well-established MIDL event center in Gather.Town. Participation is **free of charge**! However, we ask you to register beforehand to ensure a smooth event:
+The Autumn Academy will take place on **November 30 2022** and will start at **15:00 CET**. The tutorial will be held virtually via [Zoom](https://us06web.zoom.us/j/88902343676?pwd=ZytvWkVrS1pJQ1NMQXpDbEdOOG52UT09), and of course, there will be a Get-Together afterwards in our well-established MIDL event center in [Gather.Town](ADD LINK HERE). Participation is **free of charge**! Even though teh places are not limited and we are happy for anyone joining spontaneously, we would like to ask you to register beforehand to ensure a smooth event:
 
 {{ button("Register Here", "https://forms.gle/Efrw7AEYuHfg2kqr5") }}
 
@@ -28,6 +28,22 @@ The Autumn Academy will take place on **November 30 2022** and will start at **1
 Concerns about the reproducibility of deep learning research are more prominent than ever, with no clear solution in sight. Providing public source code is a powerful solution for one aspect of reproducibility, however the quality of these repositories vary widely between projects and might cause more harm than good. Evaluating all full paper submissions at MIDL shows that public repositories are becoming increasingly popular, however some tiny design flaws hinder their repeatability and usefulness over time. Based on these results and some commonly encountered problems, MIDL proposed a reproducibility guideline to help authors design a repository for their submission. (Following the guidelines is completely optional and their aim is not to regulate authors, but to help them.) During the tutorial we will discuss source code repositories and the proposed guideline, and through a series of discussion points we will have the chance to make changes to the guideline helping ourselves and future authors. No coding skills are required for the tutorial.
 
 The tutorial will be led by [Attila Simko](https://www.umu.se/en/staff/attila-simko/) from Umeå University.
+
+---
+
+## Links to join the Sessions
+
+We gave our best to select the optimal tools for each part of the event.
+The main program, i.e. the Tutorial, will be hosted in Zoom. You can join using the following link:
+
+{{ button("Join Zoom Event", "https://us06web.zoom.us/j/88902343676?pwd=ZytvWkVrS1pJQ1NMQXpDbEdOOG52UT09") }}
+
+Following the main program, there will be a relaxed Get-Together starting from 18:15 CET. For that, we will switch to our good old MIDL event center in Gather.Town. You can join here:
+
+{{ button("Join Get-Together in Gather.Town", "ADD LINK HERE") }}
+
+Gather.Town is a great tool to meet and interact in cyberspace. If you feel overwhelmed or lost at first, don’t worry: You can find a short tutorial [here](https://www.youtube.com/watch?v=xSNSvggSA8E).
+
 
 ---
 
