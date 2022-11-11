@@ -23,6 +23,13 @@ We are soliciting bids to organize **[MIDL 2024](/call-for-2024.html) (deadline 
     <a href="/call-for-2025.html" class="button">Call for MIDL 2025</a>
 </p>
 
+### Other coming events
+[% .cards-mini %]
+<a href="/autumn-academy.html">
+    <img alt="Autumn Academy 2022" src="/images/cards/card-mini-aa2022.jpg">
+</a>
+[% / %]
+
 
 ---
 
