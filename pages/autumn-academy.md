@@ -14,7 +14,7 @@ opengraph:
 <br>
 
 We proudly present the first edition of the next regular online event in the annual calendar of MIDL: The Autumn Academy! Feel warmly welcomed to grab a cup of tea, curl up in a cozy blanket in front of your device and join a tutorial to train your research skills.
-And for this first edition, we chose one of the most important and similarly one of the most under-represented research skills to train: Reproducibility!
+And for this first edition, we chose one of the most important yet one of the most under-represented research skills to train: Reproducibility!
 
 The Autumn Academy will take place on **November 30 2022** and will start at **15:00 CET**. The tutorial will be held virtually via Zoom, and of course, there will be a Get-Together afterwards in our well-established MIDL event center in Gather.Town. Participation is **free of charge**! However, we ask you to register beforehand to ensure a smooth event:
 
