@@ -36,7 +36,7 @@ The tutorial will be led by [Attila Simko](https://www.umu.se/en/staff/attila-si
 We gave our best to select the optimal tools for each part of the event.
 The main program, i.e. the Tutorial, will be hosted in Zoom. You can join using the following link:
 
-{{ button("Join Zoom Event", "https://us06web.zoom.us/j/88902343676?pwd=ZytvWkVrS1pJQ1NMQXpDbEdOOG52UT09") }}
+{{ button("Join Tutorial in Zoom", "https://us06web.zoom.us/j/88902343676?pwd=ZytvWkVrS1pJQ1NMQXpDbEdOOG52UT09") }}
 
 Following the main program, there will be a relaxed Get-Together starting from 18:15 CET. For that, we will switch to our good old MIDL event center in Gather.Town. You can join here:
 
