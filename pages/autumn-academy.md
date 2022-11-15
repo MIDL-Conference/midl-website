@@ -1,7 +1,7 @@
 ---
 title: "Autumn Academy"
 opengraph:
-  image: "/images/autumn-academy/background.jpg"
+  image: "/images/cards/card-mini-aa2022.jpg"
 ---
 
 {% from "_macros.html" import button %}
