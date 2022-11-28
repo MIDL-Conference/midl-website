@@ -65,13 +65,11 @@ All times are [Central European Time (CET)](https://www.timeanddate.com/time/zon
 <!-- [% .invisible-table %] -->
 | Program                                              | Time Slot         |
 | --------                                             | ---------         |
-| Check-In and Coffee Round                            | 14:45 - 15:00     |
+| Check-In and Coffee Round                            | 14:50 - 15:00     |
 | Welcome for Academy Participants                     | 15:00 - 15:15     |
-| Tutorial Part 1                                      | 15:15 - 16:00     |
-| Break                                                | 16:00 - 16:15     |
-| Tutorial Part 2                                      | 16:15 - 17:00     |
-| Break                                                | 17:15 - 17:30     |
-| Tutorial Part 3                                      | 17:30 - 18:00     |
+| Tutorial Part 1                                      | 15:15 - 16:30     |
+| Break                                                | 16:30 - 16:45     |
+| Tutorial Part 2                                      | 16:45 - 18:00     |
 | Closing                                              | 18:00 - 18:10     |
 | Get  Together in Gather.Town                         | starting 18:15    |
 <!-- [% / %] -->
