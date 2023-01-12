@@ -12,11 +12,11 @@ Until now, MIDL has not been an exception, and according to researchers from Ume
 With the aim to improve the reproducibility of our field, we are publishing those guidelines for authors, whom are kindly asked to fill this checklist when submitting a paper to MIDL.
 While not mandatory---not following those guidelines **will not** impact reviews---, we hope that this first step will already have an measurable impact, while at the same time start a conversation on the topic.
 
-A free online academy is organized on the topic, on November 30 2022:
+A [free online academy](/autumn-academy.html) was organized on the topic, on November 30 2022. Recording of the presentation is available [here](https://video.midl.io/2022_midl_autumn_academy.mp4).
 
-<p class="centered">
+<!-- <p class="centered">
     <a href="/autumn-academy.html" class="button" style="background-image: linear-gradient(to bottom, #fd982c, #f7b70f);">Autumn academy on reproducibility</a>
-</p>
+</p> -->
 
 <!-- In light of these efforts, will are asking every authors to fill honestly this reproducibility checklist when submitting a paper.
 While not mandatory, we hope those guidelines will improve the reproducibility of our field, while starting a conversation on the most
