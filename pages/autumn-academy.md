@@ -4,7 +4,7 @@ opengraph:
   image: "/images/cards/card-mini-aa2022.jpg"
 ---
 
-{% from "_macros.html" import button %}
+{% from "_macros.html" import button,video %}
 
 
 # Autumn Academy 2022
@@ -16,9 +16,10 @@ opengraph:
 We proudly present the first edition of the next regular online event in the annual calendar of MIDL: The Autumn Academy! Feel warmly welcomed to grab a cup of tea, curl up in a cozy blanket in front of your device and join a tutorial to train your research skills.
 And for this first edition, we chose one of the most important yet one of the most under-represented research skills to train: Reproducibility!
 
-The Autumn Academy will take place on **November 30 2022** and will start at **15:00 CET**. The tutorial will be held virtually via [Zoom](https://us06web.zoom.us/j/88902343676?pwd=ZytvWkVrS1pJQ1NMQXpDbEdOOG52UT09), and of course, there will be a Get-Together afterwards in our well-established MIDL event center in [Gather.Town](https://app.gather.town/invite?token=epuhYbncQwu6PlfZjcre). Participation is **free of charge**! Even though the places are not limited and we are happy for anyone joining spontaneously, we would like to ask you to register beforehand to ensure a smooth event:
+The Autumn Academy took place on **November 30 2022**  at **15:00 CET**.
+<!-- The tutorial will be held virtually via [Zoom](https://us06web.zoom.us/j/88902343676?pwd=ZytvWkVrS1pJQ1NMQXpDbEdOOG52UT09), and of course, there will be a Get-Together afterwards in our well-established MIDL event center in [Gather.Town](https://app.gather.town/invite?token=epuhYbncQwu6PlfZjcre). Participation is **free of charge**! Even though the places are not limited and we are happy for anyone joining spontaneously, we would like to ask you to register beforehand to ensure a smooth event: -->
 
-{{ button("Register Here", "https://forms.gle/Efrw7AEYuHfg2kqr5") }}
+{{ video("https://video.midl.io/2022_midl_autumn_academy.mp4") }}
 
 
 ---
