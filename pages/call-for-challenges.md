@@ -1,6 +1,8 @@
 ---
 title: Call for challenges
 ---
+{% from "_macros.html" import button %}
+
 # Call for challenges
 
 Challenges have become an essential part of research in medical imaging. Challenges pose a problem and solicit solutions from participants all over the world; each solution is validated on the same test data, making for a fair comparison. Following MIDL's commitment to openness and transparency, hosting regular, high-quality challenges is a logical next step towards creating an active scientific community in the "midl" of methodological novelty and clinical impact.
@@ -15,6 +17,7 @@ We have decided to partner with [grand-challenge.org](https://grand-challenge.or
 
 Requests for organizing MIDL challenges can be submitted continuously and will be processed on a rolling basis. To submit your application, follow [this link](https://grand-challenge.org/challenges/requests/create/). Make sure to indicate that the _Affiliated event_ is MIDL, and make sure to include the [Structured challenge submission form](https://www.biomedical-challenges.org/files/Suppl_2_%20StructuredDescriptionOfAChallengeDesign.pdf) on the [Structured Chalenge Submission System site](https://www.biomedical-challenges.org/).
 
+{{ button("Submit a challenge", "https://grand-challenge.org/challenges/requests/create") }}
 
 ## What do you get from us?
 
