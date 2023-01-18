@@ -26,3 +26,5 @@ An alternative `.svg` version is available, and the html code of the key-color o
 
 ## MIDL 2023 — Nashville
 ![MIDL Nashville](/logos/2023/logo.png)
+
+![MIDL Nashville reversed](/logos/2023/logo_gold.png)
