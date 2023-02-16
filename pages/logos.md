@@ -4,14 +4,19 @@ title: MIDL logos
 <style>
 .box {
   float: left;
-  height: 1em;
+  height: 1.625em;
   width: 2em;
-/*  clear: both;*/
+}
+
+table {
+  width: 45%;
 }
 </style>
 # MIDL logos
 This page contains all logos from the different MIDL editions, meant to be embedded in created materials (e.g. authors slides).
 <!-- An alternative `.svg` version is available, and the html code of the key-color of each edition is also mentioned. -->
+
+<center>
 
 | Edition | Key color |
 |---------|-----------|
@@ -22,6 +27,8 @@ This page contains all logos from the different MIDL editions, meant to be embed
 | MIDL 2021 Lübeck | `#004B5A` <div class="box" style="background-color: #004B5A"></div> |
 | MIDL 2022 Zürich | `#268BCC` <div class="box" style="background-color: #268BCC"></div> |
 | MIDL 2023 Nashville | `#B18630` <div class="box" style="background-color: #B18630"></div> |
+
+</center>
 
 ## MIDL foundation
 ![MIDL foudation logo](/logos/midl/logo_color.png)
