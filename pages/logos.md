@@ -27,6 +27,7 @@ This page contains all logos from the different MIDL editions, meant to be embed
 | MIDL 2021 Lübeck | `#004B5A` <div class="box" style="background-color: #004B5A"></div> |
 | MIDL 2022 Zürich | `#268BCC` <div class="box" style="background-color: #268BCC"></div> |
 | MIDL 2023 Nashville | `#B18630` <div class="box" style="background-color: #B18630"></div> |
+| MIDL 2024 Paris | `#AA0000` <div class="box" style="background-color: #AA0000"></div> |
 
 </center>
 
@@ -59,3 +60,7 @@ This page contains all logos from the different MIDL editions, meant to be embed
 
 ![MIDL Nashville reversed](/logos/2023/logo_gold.png)
 <!-- [SVG](/logos/2023/logo_white.svg) -->
+
+## MIDL 2024 — Paris
+![MIDL Paris](/logos/2024/logo.png)
+![MIDL Paris reversed](/logos/2024/logo_red.png)
