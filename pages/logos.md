@@ -31,6 +31,8 @@ This page contains all logos from the different MIDL editions, meant to be embed
 
 </center>
 
+[A style guide is also available.](/style-guide.html)
+
 ## MIDL foundation
 ![MIDL foudation logo](/logos/midl/logo_color.png)
 <!-- [SVG](/logos/midl/logo_white.svg) -->
