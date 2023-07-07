@@ -39,6 +39,9 @@ nav:
   - title: "Logos"
     path: "/logos.html"
     icon: "paint-brush"
+  - title: "Virtual events"
+    path: "/virtual-events.html"
+    icon: vr-cardboard
   # - title: "Style guide"
   #   path: "/style-guide.html"
   #   icon: "palette"
