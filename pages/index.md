@@ -29,7 +29,7 @@ We are soliciting bids to organize [MIDL 2025](/call-for-2025.html).
 {{ newsletter("midl.io") }}
 
 ---
-### Upcoming editions
+### Upcoming edition
 <a href="https://2024.midl.io">
     <img alt="Paris 2024" src="/images/cards/card-mini-2024.jpg" width=22%>
 </a>
