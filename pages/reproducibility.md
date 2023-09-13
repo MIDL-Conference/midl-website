@@ -52,3 +52,6 @@ If the trained model can be made publicly available, include the trained weights
 
 #### Repository: Is there documentation for the available material? [Yes/No/NA]
 A thorough and detailed description of the repository can be a major help for the interested reader to fully understand the code. Aim to describe the methods in a similar way as in the main body of the paper for coherence.
+
+#### Repository: Is there licensing for the available material? [Yes/No/NA]
+A detailed description on how the shared material can be used for research and commercial purposes.
