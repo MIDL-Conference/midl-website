@@ -49,11 +49,11 @@ We are soliciting bids to organize [MIDL 2025](/call-for-2025.html).
 &emsp;<a href="https://2020.midl.io">
     <img alt="Montréal 2020" src="/images/cards/card-mini-2020.jpg" width=22%>
 </a>
-&emsp;<a href="https://2019.midl.io">
+
+<a href="https://2019.midl.io">
     <img alt="London 2019" src="/images/cards/card-mini-2019.jpg" width=22%>
 </a>
-
-<a href="https://2018.midl.io">
+&emsp;<a href="https://2018.midl.io">
     <img alt="Amsterdam 2018" src="/images/cards/card-mini-2018.jpg" width=22%>
 </a>
 
