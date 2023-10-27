@@ -29,13 +29,11 @@ The members of the program board are responsible for managing the review and pap
 * Caroline Petitjean
 * Dwarikanath Mahapatra
 * Enzo Ferrante
-* Emma C. Robinson
 * Francesco Ciompi
 * Guang Yang
 * Huazhu Fu
 * Ilker Hacihaliloglu
 * Ingerid Reinertsen
-* Ismail Ben Ayed
 * Jelmer M. Wolterink
 * Hao Chen
 * Jianming Liang
