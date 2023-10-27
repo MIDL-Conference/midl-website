@@ -7,6 +7,12 @@ The MIDL Board is inviting interested researchers to bid for organizing MIDL 202
 
 If you are interested in applying or have any questions, please contact us at [board@midl.io](mailto:board@midl.io)
 
+## Timeline, deadlines
+
+* Deadline for submitting bids: January 12, 2024 
+* If we have multiple strong bids, we may invite prospective organizing team to pitch in an online board meeting. This will take place on Feb 2, 2024
+* Mid February 2024, the decision on the location of MIDL 2025, and possibly MIDL 2025, will be made 
+
 ## Financial details
 
 All previous editions of MIDL were organized with support and financial guarantees of local institutions and local funds from the organizers. The MIDL Foundation can supply a loan to cover upfront costs, for, e.g., the venue or gala dinner. Please indicate in the bid a tentative budget and possibilities to take local financial responsibility for scenarios from 300 participants and beyond, and indicate the maximum possible number of particpants (typically determined by the capacity of the conference room at the venue, as MIDL is a single track conference).
