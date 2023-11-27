@@ -16,7 +16,7 @@ The MIDL Foundation is proud to present the the next online event within its ann
 
 As in previous editions, the core idea is to prepare less experienced researchers for their contributions to MIDl 2024, be it paper submissions or reviewing. Thus, we will host two workshops on exactly these topics, including practical sessions to sharpen your research skills.
 
-The Winter Workshop 2024 will take place on **22 January 2024** as a virtual Zoom event. It will be divided into two workshop tracks that run in parallel. The event will be free of charge. However, a mandatory registration is necessary.
+The Winter Workshop 2024 will take place on **16 January 2024** as a virtual Zoom event. It will be divided into two workshop tracks that run in parallel. The event will be free of charge. However, a mandatory registration is necessary.
 
 ---
 
