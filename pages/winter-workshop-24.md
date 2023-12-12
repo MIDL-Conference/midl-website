@@ -35,7 +35,7 @@ We are happy that the workshop will be led by [Dr. Hoel Kervadec](https://hoel.k
 
 You were invited to review for MIDL 2024, for another venue or even a journal? You want to take your first steps in writing reviews independently, or you just want t become more efficient in doing so? Join this workshop to learn how to write outstanding reviews.
 After a tutorial loaded with hints from experienced, senior colleagues, you will discuss real reviews from previous MIDL editions, including their rating by the program board. You will learn how to open up your own mind to grasp a manuscript from different perspectives, and how a review should be formulated to give a value to the authors.
-We are proud that the workshop will be led by [Prof. Dr. Maria Vakalopoulou](https://www.centralesupelec.fr/en/msc-artificial-intelligence-faculty) from CentraleSupélec She will be supported by a great team, stay tuned.
+We are proud that the workshop will be led by [Prof. Dr. Maria Vakalopoulou](https://mariavak.github.io/) from CentraleSupélec She will be supported by a great team, stay tuned.
 
 ---
 
