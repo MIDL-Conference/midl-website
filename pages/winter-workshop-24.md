@@ -18,6 +18,9 @@ As in previous editions, the core idea is to prepare less experienced researcher
 
 The Winter Workshop 2024 will take place on **16 January 2024** as a virtual Zoom event. It will be divided into two workshop tracks that run in parallel. The event will be free of charge. However, a mandatory registration is necessary.
 
+{{ button("Reviewing workshop registration", "https://forms.gle/ga92w7GKLkFUJeHX6") }}
+{{ button("Paper writing workshop registration", "https://forms.gle/2FF9ySmzx1tGfNsi6") }}
+
 ---
 
 ## Workshops
