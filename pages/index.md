@@ -33,6 +33,9 @@ We are soliciting bids to organize [MIDL 2025](/call-for-2025.html).
 <a href="https://2024.midl.io">
     <img alt="Paris 2024" src="/images/cards/card-mini-2024.jpg" width=22%>
 </a>
+&emsp;<a href="/winter-workshop-24.html">
+    <img alt="Winter Workshop 2024" src="/images/cards/card-mini-ww2024.jpg" width=22%>
+</a>
 
 ### Past editions
 
