@@ -59,7 +59,7 @@ We are proud that the workshop will be led by [Prof. Dr. Maria Vakalopoulou](htt
 
 ## Organization
 
-* [Alessa Hering](https://www.diagnijmegen.nl/people/alessa-hering/),Radboudumc Nijmegen & Fraunhofer MEVIS, <alessa.hering@radboudumc.nl>
+* [Alessa Hering](https://www.diagnijmegen.nl/people/alessa-hering/), Radboudumc Nijmegen & Fraunhofer MEVIS, <alessa.hering@radboudumc.nl>
 * [Jannis Hagenah](https://j-hagenah.github.io), Fraunhofer IMTE, <jannis.hagenah@imte.fraunhofer.de>
 
 
