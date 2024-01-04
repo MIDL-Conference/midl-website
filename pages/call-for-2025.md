@@ -11,7 +11,16 @@ If you are interested in applying or have any questions, please contact us at [b
 
 * Deadline for submitting bids: January 12, 2024 
 * If we have multiple strong bids, we may invite prospective organizing team to pitch in an online board meeting. This will take place on Feb 2, 2024
-* Mid February 2024, the decision on the location of MIDL 2025, and possibly MIDL 2025, will be made 
+
+## Location
+The MIDL board has decided of the following locations for the upcoming MIDL editions:
+
+* **2025: non-Europe**
+* 2026: Europe
+* 2027: non-Europe
+* 2028: Europe
+* 2029: Europe
+* 2030: non-Europe
 
 ## Financial details
 
