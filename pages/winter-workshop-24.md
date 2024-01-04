@@ -44,16 +44,32 @@ We are proud that the workshop will be led by [Prof. Dr. Maria Vakalopoulou](htt
 
 ## Timetable
 
+Note that the schedule is tentative and might evolve.
+
 (all times CET)
 
+### Writing workshop
+
 [% .invisible-table %]
+
 | Program                                              | Time Slot         |
 | --------                                             | ---------         |
-| Check-In and Coffee Round                            | 14:50 - 15:00     |
-| Welcome for Workshop Participants                    | 15:00 - 15:15     |
-| Workshops: Tutorial Talks (both tracks)              | 15:15 - 16:15     |
-| Break                                                | 16:15 - 16:30     |
-| Workshops: Hands-on Session                          | 16:30 - 17:30     |
+| Welcome in Zoom                                      | 14:50 - 15:00     |
+| Presentation “How to write an award-winning paper” including Q&A (Dr. Hoel Kervadec)                    | 15:00 - 15:45     |
+| Sharing experience on how to use chatGPT for writing assistance including discussion. (Joeran Bosma)              | 15:45 - 16:05     |
+| Presentation “How to make your research reproducible?” including Q&A (Attila Simko) | 16:15 – 16:45     |
+| Breakout rooms for individual questions                          | 16:45 – 17:30     |
+
+[% / %]
+
+### Reviewing workshop
+
+[% .invisible-table %]
+
+| Program                                              | Time Slot         |
+| --------                                             | ---------         |
+| Welcome in Zoom                                      | 14:50 - 15:00     |
+| Presentation “How to write an outstanding review” including Q&A (Prof. Dr. Maria Vakalopoulou) | 15:00 - 16:00    |
 
 [% / %]
 
