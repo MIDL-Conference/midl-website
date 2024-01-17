@@ -23,7 +23,7 @@ Requests for organizing MIDL challenges can be submitted continuously and will b
 
 If your challenge is selected as a MIDL challenge:
 
-* You will be able to host the challenge for free on grand-challenge.org and all costs for storing the algorithms that participants upload to compete in the challenge and for processing the test data are waived.
+* You will be able to host the challenge on grand-challenge.org and the basic costs of 5000€ are waived. Please be aware that you still need to pay storing and computational costs.
 * MIDL and grand-challenge.org will advise the organizing team and provide support for data collection and data annotation. The organizing team will have a point of contact from the MIDL Board.
 * We will provide participants free access to large training data sets via the [AWS Open Data Registry](https://registry.opendata.aws/), and we will use [Zenodo](https://zenodo.org/) for making smaller data sets available.
 * The best solutions to challenges will remain available as [Algorithms](https://grand-challenge.org/algorithms/) on grand-challenge.org and can be accessed by any registered user of the platform to process new data and use this for research and development;
