@@ -4,7 +4,7 @@ opengraph:
   image: "/images/winter-workshop/social.jpg"
 ---
 
-{% from "_macros.html" import button %}
+{% from "_macros.html" import button, youtube %}
 
 
 ![MIDL Winter Workshop](/images/winter-workshop/background_cropped.jpg)
@@ -33,6 +33,7 @@ You want to submit your research to MIDL 2024, but you have troubles putting it 
 After a tutorial full of valuable hints, dos and don’ts, there will be an intense hands-on session in smaller groups, guided by experienced moderators. In this session, you will discuss and fine-tune your own manuscript. So if you are planning to submit to MIDL 2024, bring your first draft and go out with a substantially revised version.
 We are happy that the workshop will be led by [Dr. Hoel Kervadec](https://hoel.kervadec.science) from Erasmus MC. He will be supported by a great team (stay tuned).
 
+{{ youtube('iwFkSrHk-FM') }}
 
 ### How to write an outstanding review ![Portrait of Maria Vakalopoulou](/images/winter-workshop/pic_maria.jpg){: class="align-right" width="180" }
 
