@@ -33,9 +33,6 @@ We are soliciting bids to organize [MIDL 2025](/call-for-2025.html).
 <a href="https://2024.midl.io">
     <img alt="Paris 2024" src="/images/cards/card-mini-2024.jpg" width=22%>
 </a>
-&emsp;<a href="/winter-workshop-24.html">
-    <img alt="Winter Workshop 2024" src="/images/cards/card-mini-ww2024.jpg" width=22%>
-</a>
 
 ### Past editions
 
@@ -61,7 +58,10 @@ We are soliciting bids to organize [MIDL 2025](/call-for-2025.html).
 </a>
 
 ### Past events
-<a href="/autumn-academy.html">
+<a href="/winter-workshop-24.html">
+    <img alt="Winter Workshop 2024" src="/images/cards/card-mini-ww2024.jpg" width=22%>
+</a>
+&emsp;<a href="/autumn-academy.html">
     <img alt="Autumn Academy 2022" src="/images/cards/card-mini-aa2022.jpg" width=22%>
 </a>
 &emsp;<a href="/winter-workshop.html">
