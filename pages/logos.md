@@ -35,34 +35,43 @@ This page contains all logos from the different MIDL editions, meant to be embed
 
 ## MIDL foundation
 ![MIDL foudation logo](/logos/midl/logo_color.png)
-<!-- [SVG](/logos/midl/logo_white.svg) -->
+
+[SVG (white logo)](/logos/midl/logo_white.svg)
 
 ## MIDL 2018 — Amsterdam
 ![MIDL Amsterdam logo](/logos/2018/logo.png)
-<!-- [SVG](/logos/2018/logo_white.svg) -->
+
+[SVG (white logo)](/logos/2018/logo_white.svg)
 
 ## MIDL 2019 — London
 ![MIDL London logo](/logos/2019/logo.png)
-<!-- [SVG](/logos/2019/logo_white.svg) -->
+
+[SVG (white logo)](/logos/2019/logo_white.svg)
 
 ## MIDL 2020 — Montréal
 ![MIDL Montréal logo](/logos/2020/logo.png)
-<!-- [SVG](/logos/2020/logo_white.svg) -->
+
+[SVG (white logo)](/logos/2020/logo_white.svg)
 
 ## MIDL 2021 — Lübeck
 ![MIDL Lübeck](/logos/2021/logo.png)
-<!-- [SVG](/logos/2021/logo_white.svg) -->
+
+[SVG (white logo)](/logos/2021/logo_white.svg)
 
 ## MIDL 2022 — Zürich
 ![MIDL Zürich](/logos/2022/logo.png)
-<!-- [SVG](/logos/2022/logo_white.svg) -->
+
+[SVG (white logo)](/logos/2022/logo_white.svg)
 
 ## MIDL 2023 — Nashville
 ![MIDL Nashville](/logos/2023/logo.png)
 
 ![MIDL Nashville reversed](/logos/2023/logo_gold.png)
-<!-- [SVG](/logos/2023/logo_white.svg) -->
+
+[SVG (white logo)](/logos/2023/logo_white.svg)
 
 ## MIDL 2024 — Paris
 ![MIDL Paris](/logos/2024/logo.png)
 ![MIDL Paris reversed](/logos/2024/logo_red.png)
+
+[SVG (white logo)](/logos/2024/logo_white.svg)
