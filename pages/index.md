@@ -23,7 +23,6 @@ We are soliciting bids to organize [MIDL 2025](/call-for-2025.html).
 
 <p class="centered">
     <a href="/call-for-challenges.html" class="button">Call for challenges</a>
-    <a href="/call-for-2025.html" class="button">Call for MIDL 2025</a>
 </p>
 
 {{ newsletter("midl.io") }}
