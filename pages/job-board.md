@@ -5,6 +5,8 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **Guerbet**: [AI data scientist in medical imaging (PhD required) (July 2024)](/job/DataScientistGuerbet_eng.pdf)
+* **Guerbet**: [AI engineer in medical imaging (July 2024)](/job/DataEngineerGuerbet_eng.pdf)
 * **University of Copenhagen**: [Tenure-Track Assistant, Associate, or Full Professor in Computer Science (July 2024)](https://di.ku.dk/english/about/vacancies/tenure-track-assistant-associate-or-full-professor-in-computer-science/)
 * **Universiteit van Amsterdam**: [Postdoctoral Researcher on Deep Learning for Medical Imaging (20 months) (July 2024)](https://vacatures.uva.nl/UvA/job/Postdoctoral-Researcher-on-Deep-Learning-for-Medical-Imaging-%2820-months%29/798270202/)
 * **Hochschule Flensburg**: [PhD/Post-doc position in AI based tumor characterization (July 2024)](https://deepmicroscopy.org/phd-post-doc-position-in-ai-based-tumor-characterizationphd-post-doc-position-in-ai-assisted-tumor-characterization-3-years/)
