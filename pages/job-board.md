@@ -5,6 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **University of Washington (Kurtlab)**: [Postdoc, 'Applications of AI/ML in neuroimaging' (July 2024)](/job/kurtlab)
 * **Lausanne University Hospital (CHUV)**: [Imaging Data Engineer (July 2024)](/job/job_ad_DataEngineer_MIDL.pdf)
 * **Primaa**: [Senior Data Scientist - Computer Vision (July 2024)](/job/Primaa_Senior_Datascientist_computer_vision.pdf)
 * **Guerbet**: [AI data scientist in medical imaging (PhD required) (July 2024)](/job/DataScientistGuerbet_eng.pdf)
