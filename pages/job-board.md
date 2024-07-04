@@ -5,6 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **Creatis/Insa Lyon**: [Post-doctoral researcher](/job/post_doc_offer_PERSEVERE.pdf)
 * **Gleamer**: [AI Engineer](https://www.welcometothejungle.com/fr/companies/gleamer/jobs/ai-engineer_paris?q=aad3323eb145da232a39187aad4e5dad&o=c34afe7f-909f-4dd5-8429-ba60dad92afd)
 * **Hypervision Surgical**: [Research Scientist](https://hypervisionsurgical.com/career/2024-04_research-scientist/)
 * **Centrale Nantes/LS2N (France)**: [Postdoctoral/Research Engineer Position (July 2024)](https://sims.ls2n.fr/wp-content/uploads/sites/100/2024/07/2024-07-LS2N-postdoc-cemmtaur.pdf)
