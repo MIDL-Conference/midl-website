@@ -5,6 +5,9 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **Gleamer**: [AI Engineer](https://www.welcometothejungle.com/fr/companies/gleamer/jobs/ai-engineer_paris?q=aad3323eb145da232a39187aad4e5dad&o=c34afe7f-909f-4dd5-8429-ba60dad92afd)
+* **Hypervision Surgical**: [Research Scientist](https://hypervisionsurgical.com/career/2024-04_research-scientist/)
+* **Centrale Nantes/LS2N (France)**: [Postdoctoral/Research Engineer Position (July 2024)](https://sims.ls2n.fr/wp-content/uploads/sites/100/2024/07/2024-07-LS2N-postdoc-cemmtaur.pdf)
 * **University of Washington (Kurtlab)**: [Postdoc, 'Applications of AI/ML in neuroimaging' (July 2024)](/job/kurtlab)
 * **Lausanne University Hospital (CHUV)**: [Imaging Data Engineer (July 2024)](/job/job_ad_DataEngineer_MIDL.pdf)
 * **Primaa**: [Senior Data Scientist - Computer Vision (July 2024)](/job/Primaa_Senior_Datascientist_computer_vision.pdf)
