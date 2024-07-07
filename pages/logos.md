@@ -28,6 +28,7 @@ This page contains all logos from the different MIDL editions, meant to be embed
 | MIDL 2022 Zürich | `#268BCC` <div class="box" style="background-color: #268BCC"></div> |
 | MIDL 2023 Nashville | `#B18630` <div class="box" style="background-color: #B18630"></div> |
 | MIDL 2024 Paris | `#AA0000` <div class="box" style="background-color: #AA0000"></div> |
+| MIDL 2025 Salt Lake City | `#FF862C` <div class="box" style="background-color: #FF862C"></div> |
 
 </center>
 

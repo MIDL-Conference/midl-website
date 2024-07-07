@@ -29,13 +29,15 @@ We are soliciting bids to organize [MIDL 2025](/call-for-2025.html).
 
 ---
 ### Upcoming edition
-<a href="https://2024.midl.io">
-    <img alt="Paris 2024" src="/images/cards/card-mini-2024.jpg" width=22%>
+<a href="https://2025.midl.io">
+    <img alt="Salt Lake City 2025" src="/images/cards/card-mini-2025.jpg" width=22%>
 </a>
 
 ### Past editions
 
-
+<a href="https://2024.midl.io">
+    <img alt="Paris 2024" src="/images/cards/card-mini-2024.jpg" width=22%>
+</a>&emsp;
 <a href="https://2023.midl.io">
     <img alt="Nashville 2023" src="/images/cards/card-mini-2023.jpg" width=22%>
 </a>
@@ -45,11 +47,11 @@ We are soliciting bids to organize [MIDL 2025](/call-for-2025.html).
 &emsp;<a href="https://2021.midl.io">
     <img alt="Lübeck 2021" src="/images/cards/card-mini-2021.jpg" width=22%>
 </a>
-&emsp;<a href="https://2020.midl.io">
+
+<a href="https://2020.midl.io">
     <img alt="Montréal 2020" src="/images/cards/card-mini-2020.jpg" width=22%>
 </a>
-
-<a href="https://2019.midl.io">
+&emsp;<a href="https://2019.midl.io">
     <img alt="London 2019" src="/images/cards/card-mini-2019.jpg" width=22%>
 </a>
 &emsp;<a href="https://2018.midl.io">
