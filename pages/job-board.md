@@ -5,6 +5,8 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **Stanford University**: [Division Chief of Integrative Biomedical Imaging Informatics at Stanford (IBIIS) (July 2024)](https://facultypositions.stanford.edu/en-us/job/494721/division-chief-of-integrative-biomedical-imaging-informatics-at-stanford-ibiis)
+* **Stanford University**: [Faculty Positions Focused on Artificial Intelligence Approaches to Radiological Imaging (July 2024)](https://facultypositions.stanford.edu/en-us/job/494720/open-faculty-positions-focused-on-artificial-intelligence-approaches-to-radiological-imaging)
 * **Creatis/Insa Lyon**: [Post-doctoral researcher (July 2024)](/job/post_doc_offer_PERSEVERE.pdf)
 * **Gleamer**: [AI Engineer (July 2024)](https://www.welcometothejungle.com/fr/companies/gleamer/jobs/ai-engineer_paris?q=aad3323eb145da232a39187aad4e5dad&o=c34afe7f-909f-4dd5-8429-ba60dad92afd)
 * **Hypervision Surgical**: [Research Scientist (July 2024)](https://hypervisionsurgical.com/career/2024-04_research-scientist/)
