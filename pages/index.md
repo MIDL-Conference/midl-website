@@ -19,7 +19,6 @@ Medical Imaging with Deep Learning (MIDL) brings the community of deep learning 
 MIDL is organized by the [MIDL Foundation](/foundation.html) and its [Board](/board.html).
 
 MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.html)**.
-We are soliciting bids to organize [MIDL 2025](/call-for-2025.html).
 
 <p class="centered">
     <a href="/young-researchers-board.html" class="button">Young Researcher Board - Call for Members</a>
