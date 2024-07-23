@@ -22,6 +22,8 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 We are soliciting bids to organize [MIDL 2025](/call-for-2025.html).
 
 <p class="centered">
+    <a href="/young-researchers-board.html" class="button">Young Researcher Board - Call for Members</a>
+    <br>
     <a href="/call-for-challenges.html" class="button">Call for challenges</a>
     <a href="/job-board.html" class="button">Job board</a>
 </p>
