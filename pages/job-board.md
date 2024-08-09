@@ -5,6 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **Medical University of Vienna**: [PhD Position in Retinal Image Analysis (August 2024)](/job/MedUniWien_Bogunovic_PhD2024.pdf)
 * **Stanford University**: [Division Chief of Integrative Biomedical Imaging Informatics at Stanford (IBIIS) (July 2024)](https://facultypositions.stanford.edu/en-us/job/494721/division-chief-of-integrative-biomedical-imaging-informatics-at-stanford-ibiis)
 * **Stanford University**: [Faculty Positions Focused on Artificial Intelligence Approaches to Radiological Imaging (July 2024)](https://facultypositions.stanford.edu/en-us/job/494720/open-faculty-positions-focused-on-artificial-intelligence-approaches-to-radiological-imaging)
 * **Creatis/Insa Lyon**: [Post-doctoral researcher (July 2024)](/job/post_doc_offer_PERSEVERE.pdf)
