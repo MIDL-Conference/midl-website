@@ -5,6 +5,9 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **Trinity College Dublin (Cusack lab)**: [PhD Studentship in Deep Neural Networks for Medical Imaging (August 2024)](https://cusacklab-web.s3.amazonaws.com/TCD_FreezeMotion_Phd_2024.pdf)
+* **Trinity College Dublin (Cusack lab)**: [Two Experienced Postdoctoral Researchers or Research Fellows in Deep Neural Networks for Medical Imaging (August 2024)](https://cusacklab-web.s3.amazonaws.com/TCD_FreezeMotion_Postdoc_2024.pdf)
+* **Radboud UMC**: [Postdoc 'Multimodal AI for Urologic Cancer' (August 2024)](https://www.radboudumc.nl/en/vacancies/143282-postdoc-multimodal-ai-for-urologic-cancer)
 * **Medical University of Vienna**: [PhD Position in Retinal Image Analysis (August 2024)](/job/MedUniWien_Bogunovic_PhD2024.pdf)
 * **Stanford University**: [Division Chief of Integrative Biomedical Imaging Informatics at Stanford (IBIIS) (July 2024)](https://facultypositions.stanford.edu/en-us/job/494721/division-chief-of-integrative-biomedical-imaging-informatics-at-stanford-ibiis)
 * **Stanford University**: [Faculty Positions Focused on Artificial Intelligence Approaches to Radiological Imaging (July 2024)](https://facultypositions.stanford.edu/en-us/job/494720/open-faculty-positions-focused-on-artificial-intelligence-approaches-to-radiological-imaging)
@@ -19,7 +22,6 @@ To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.i
 * **University of Copenhagen**: [Tenure-Track Assistant, Associate, or Full Professor in Computer Science (July 2024)](https://di.ku.dk/english/about/vacancies/tenure-track-assistant-associate-or-full-professor-in-computer-science/)
 * **Universiteit van Amsterdam**: [Postdoctoral Researcher on Deep Learning for Medical Imaging (20 months) (July 2024)](https://vacatures.uva.nl/UvA/job/Postdoctoral-Researcher-on-Deep-Learning-for-Medical-Imaging-%2820-months%29/798270202/)
 * **Hochschule Flensburg**: [PhD/Post-doc position in AI based tumor characterization (July 2024)](https://deepmicroscopy.org/phd-post-doc-position-in-ai-based-tumor-characterizationphd-post-doc-position-in-ai-assisted-tumor-characterization-3-years/)
-* **Radboud UMC**: [Postdoc 'Multimodal AI for Urologic Cancer' (May 2024)](https://www.radboudumc.nl/en/vacancies/143282-postdoc-multimodal-ai-for-urologic-cancer)
 * **Cusack labs**: [PhD and Postdoc Positions (April 2024)](https://www.cusacklab.org/vacancies.html)
 
 
