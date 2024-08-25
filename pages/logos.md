@@ -76,3 +76,9 @@ This page contains all logos from the different MIDL editions, meant to be embed
 ![MIDL Paris reversed](/logos/2024/logo_red.png)
 
 [SVG (white logo)](/logos/2024/logo_white.svg)
+
+## MIDL 2025 — Salt Lake City
+![MIDL Paris](/logos/2025/logo.png)
+![MIDL Paris reversed](/logos/2025/logo_color.png)
+
+[SVG (white logo)](/logos/2025/logo_white.svg)
