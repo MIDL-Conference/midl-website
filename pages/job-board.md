@@ -5,6 +5,8 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **Copenhagen University Hospital/Rigshospitalet**: [Postdoctoral Research Fellow in Trustworthy Healthcare AI for Mental Health Risk Prediction (September 2024)](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=342&ProjectId=258342&DepartmentId=17198&MediaId=5)
+* **Copenhagen University Hospital/Rigshospitalet**: [Postdoctoral Research Fellow in NeuroImaging and Deep Learning (September 2024)](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=342&ProjectId=258140&DepartmentId=17198&MediaId=5)
 * **Trinity College Dublin (Cusack lab)**: [PhD Studentship in Deep Neural Networks for Medical Imaging (August 2024)](https://cusacklab-web.s3.amazonaws.com/TCD_FreezeMotion_Phd_2024.pdf)
 * **Trinity College Dublin (Cusack lab)**: [Two Experienced Postdoctoral Researchers or Research Fellows in Deep Neural Networks for Medical Imaging (August 2024)](https://cusacklab-web.s3.amazonaws.com/TCD_FreezeMotion_Postdoc_2024.pdf)
 * **Radboud UMC**: [Postdoc 'Multimodal AI for Urologic Cancer' (August 2024)](https://www.radboudumc.nl/en/vacancies/143282-postdoc-multimodal-ai-for-urologic-cancer)
