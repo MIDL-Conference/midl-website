@@ -5,6 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **IQ-BRAIN**: [16 PhD positions in trustworthy AI for quantitative MRI in neuro-imaging (October 2024)](/job/Vacancies_IQ-BRAIN_online_leaflet.pdf)
 * **Copenhagen University Hospital/Rigshospitalet**: [Postdoctoral Research Fellow in Trustworthy Healthcare AI for Mental Health Risk Prediction (September 2024)](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=342&ProjectId=258342&DepartmentId=17198&MediaId=5)
 * **Copenhagen University Hospital/Rigshospitalet**: [Postdoctoral Research Fellow in NeuroImaging and Deep Learning (September 2024)](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=342&ProjectId=258140&DepartmentId=17198&MediaId=5)
 * **Trinity College Dublin (Cusack lab)**: [PhD Studentship in Deep Neural Networks for Medical Imaging (August 2024)](https://cusacklab-web.s3.amazonaws.com/TCD_FreezeMotion_Phd_2024.pdf)
