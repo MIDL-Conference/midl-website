@@ -5,6 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **Hypervision Surgical**: [Research Scientist (October 2024)](https://hypervisionsurgical.com/career/2024-04_research-scientist/)
 * **IQ-BRAIN**: [16 PhD positions in trustworthy AI for quantitative MRI in neuro-imaging (October 2024)](/job/Vacancies_IQ-BRAIN_online_leaflet.pdf)
 * **Copenhagen University Hospital/Rigshospitalet**: [Postdoctoral Research Fellow in Trustworthy Healthcare AI for Mental Health Risk Prediction (September 2024)](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=342&ProjectId=258342&DepartmentId=17198&MediaId=5)
 * **Copenhagen University Hospital/Rigshospitalet**: [Postdoctoral Research Fellow in NeuroImaging and Deep Learning (September 2024)](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=342&ProjectId=258140&DepartmentId=17198&MediaId=5)
@@ -16,7 +17,6 @@ To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.i
 * **Stanford University**: [Faculty Positions Focused on Artificial Intelligence Approaches to Radiological Imaging (July 2024)](https://facultypositions.stanford.edu/en-us/job/494720/open-faculty-positions-focused-on-artificial-intelligence-approaches-to-radiological-imaging)
 * **Creatis/Insa Lyon**: [Post-doctoral researcher (July 2024)](/job/post_doc_offer_PERSEVERE.pdf)
 * **Gleamer**: [AI Engineer (July 2024)](https://www.welcometothejungle.com/fr/companies/gleamer/jobs/ai-engineer_paris?q=aad3323eb145da232a39187aad4e5dad&o=c34afe7f-909f-4dd5-8429-ba60dad92afd)
-* **Hypervision Surgical**: [Research Scientist (July 2024)](https://hypervisionsurgical.com/career/2024-04_research-scientist/)
 * **Centrale Nantes/LS2N (France)**: [Postdoctoral/Research Engineer Position (July 2024)](https://sims.ls2n.fr/wp-content/uploads/sites/100/2024/07/2024-07-LS2N-postdoc-cemmtaur.pdf)
 * **Lausanne University Hospital (CHUV)**: [Imaging Data Engineer (July 2024)](/job/job_ad_DataEngineer_MIDL.pdf)
 * **Primaa**: [Senior Data Scientist - Computer Vision (July 2024)](/job/Primaa_Senior_Datascientist_computer_vision.pdf)
