@@ -29,6 +29,9 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 
 ---
 ### Upcoming edition
+<a href="https://2026.midl.io">
+    <img alt="Taipei 2026" src="/images/cards/card-mini-2026.jpg" width=22%>
+</a>&emsp;
 <a href="https://2025.midl.io">
     <img alt="Salt Lake City 2025" src="/images/cards/card-mini-2025.jpg" width=22%>
 </a>
