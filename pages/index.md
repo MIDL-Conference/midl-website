@@ -28,7 +28,7 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 {{ newsletter("midl.io") }}
 
 ---
-### Upcoming edition
+### Upcoming editions
 <a href="https://2026.midl.io">
     <img alt="Taipei 2026" src="/images/cards/card-mini-2026.jpg" width=22%>
 </a>&emsp;
