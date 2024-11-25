@@ -1,7 +1,7 @@
 ---
-title: 'MIDL Young Researcher Board - Call for Members'
+title: 'MIDL Young Researcher Board'
 ---
-# MIDL Young Researcher Board - Call for Members
+# MIDL Young Researcher Board
 
 ## About the Young Researcher Board
 
