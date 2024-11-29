@@ -6,7 +6,7 @@ opengraph:
 
 {% from "_macros.html" import button, youtube %}
 
-![MIDL Winter Workshop](/images/winter-workshop/WinterWorkshop25_background.png)
+![MIDL Winter Workshop](/images/winter-workshop/WinterWorkshop25_background.jpg)
 
 <h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Winter Workshop 2025</h1>
 
@@ -40,7 +40,7 @@ Note that the schedule is tentative and might evolve.
 
 (all times in UTC0)
 
-### Writing Workshop
+### Writing Workshop (Dec. 11 2024)
 
 [% .invisible-table %]
 
@@ -53,7 +53,7 @@ Note that the schedule is tentative and might evolve.
 
 [% / %]
 
-### Reviewing Workshop
+### Reviewing Workshop (Jan. 29 2025)
 
 [% .invisible-table %]
 
