@@ -14,7 +14,7 @@ The MIDL Young Researcher Board is proud to present the next online event within
 
 As in previous editions, the core idea is to prepare early career researchers for their contributions to MIDL 2025, be it paper submissions or reviewing. Thus, we will host two workshops on exactly these topics, including practical sessions to sharpen your research skills.
 
-The Winter Workshop 2025 will take place on **11 December 2024** and **29 January 2025** as a virtual Zoom event. This year, it is divided into two workshop tracks. The event will be free of charge. However, a mandatory registration is necessary, and Zoom links will be sent out after registration.
+The Winter Workshop 2025 will take place on **11th December 2024** (for paper writing) and **29th January 2025** (for paper reviewing) as a virtual Zoom event. This year, the winter workshop is divided into two tracks. The event will be free of charge. However, a mandatory registration is necessary, and Zoom links will be sent out after registration.
 
 {{ button("Winter Workshop Registration Link", "https://forms.gle/5HQz6UQT1GmKdGnw5") }}
 
@@ -26,11 +26,11 @@ The core idea of the Winter Workshop is to support young researchers in taking t
 
 ## How to write an award-winning paper ![Potrait of Hoel Kervadec](/images/winter-workshop/pic_hoel.jpg){: class="align-right" width="180" }
 
-You want to submit your research to MIDL 2025, but you have troubles putting it all together on 8 pages? You do not have a lot of experience with writing papers, or you just want to impress the reviewers with your next submission? Join this workshop to learn how to make your paper award-winning! After a tutorial full of valuable hints, dos and don’ts, there will be a discussion forum followed by a hands-on session in smaller groups, guided by experienced moderators. In this session, you will have the opportunity to discuss and fine-tune your own manuscript. So if you are planning to submit to MIDL 2025, consider bringing your first draft and go out with a substantially improved version. We are happy that the workshop will be led by [Dr. Hoel Kervadec](https://hoel.kervadec.science/) from the University of Amsterdam. He will be supported by a great team, stay tuned.
+You want to submit your research to MIDL 2025, but you have troubles putting it all together on 8 pages? You do not have a lot of experience with writing papers, or you just want to impress the reviewers with your next submission? Join this workshop on 11th December 2024 to learn how to make your paper award-winning! After a tutorial full of valuable hints, dos and don’ts, there will be a discussion forum followed by a hands-on session in smaller groups, guided by experienced moderators. In this session, you will have the opportunity to discuss and fine-tune your own manuscript. So if you are planning to submit to MIDL 2025, consider bringing your first draft and go out with a substantially improved version. We are happy that the workshop will be led by [Dr. Hoel Kervadec](https://hoel.kervadec.science/) from the University of Amsterdam. He will be supported by a great team, stay tuned.
 
-## How to write an outstanding review ![Potrait of Lisa Koch](/images/winter-workshop/pic_lisa.jpeg){: class="align right" width="180"}
+## How to write an outstanding review ![Potrait of Lisa Koch](/images/winter-workshop/pic_lisa.jpeg){: class="align-right" width="180"}
 
-Were you invited to review for MIDL 2025, for another venue or even a journal? Do you want to take your first steps in writing reviews independently, or do you just want to become more efficient in doing so? Join this workshop to learn how to write outstanding reviews. After a tutorial loaded with hints from experienced, senior colleagues, you will discuss real reviews and feedback from previous MIDL editions, including their rating by the program board. You will learn how to open up your own mind to grasp a manuscript from different perspectives, and how a review should be formulated to give value to the authors. We are proud that the workshop will be led by [Dr. Lisa Koch](https://mlm-lab.ch/) from the University of Bern. She will be supported by a great team, stay tuned.
+Were you invited to review for MIDL 2025, for another venue or even a journal? Do you want to take your first steps in writing reviews independently, or do you just want to become more efficient in doing so? Join this workshop on 29th January 2025 to learn how to write outstanding reviews. After a tutorial loaded with hints from experienced, senior colleagues, you will discuss real reviews and feedback from previous MIDL editions, including their rating by the program board. You will learn how to open up your own mind to grasp a manuscript from different perspectives, and how a review should be formulated to give value to the authors. We are proud that the workshop will be led by [Dr. Lisa Koch](https://mlm-lab.ch/) from the University of Bern. She will be supported by a great team, stay tuned.
 
 ---
 
@@ -44,12 +44,12 @@ Note that the schedule is tentative and might evolve.
 
 [% .invisible-table %]
 
-| Program                                                                              | Time Slot     |
-| --------                                                                             | ---------     |
-| Welcome in Zoom                                                                      | 15:50 - 16:00 |
+| Program                                 | Time Slot     |
+| --------                                | ---------     |
+| Welcome in Zoom                         | 15:50 - 16:00 |
 | Presentation “How to write an award-winning paper” including Q&A (Dr. Hoel Kervadec) | 16:00 - 16:45 |
-| Panel Discussion: "Ask the Experts"                                                  | 16:45 – 17:30 |
-| Breakout rooms for individual questions                                              | 17:30 – 18:00 |
+| Panel Discussion: "Ask the Experts"     | 16:45 – 17:30 |
+| Breakout rooms for individual questions | 17:30 – 18:00 |
 
 [% / %]
 
@@ -57,12 +57,12 @@ Note that the schedule is tentative and might evolve.
 
 [% .invisible-table %]
 
-| Program                                                                          | Time Slot     |
-| --------                                                                         | ---------     |
-| Welcome in Zoom                                                                  | 15:50 - 16:00 |
+| Program                                 | Time Slot     |
+| --------                                | ---------     |
+| Welcome in Zoom                         | 15:50 - 16:00 |
 | Presentation “How to write an outstanding review” including Q&A” (Dr. Lisa Koch) | 16:00 - 16:45 |
-| Panel Discussion: "Ask the Experts"                                              | 16:45 – 17:30 |
-| Breakout rooms for individual questions                                          | 17:30 – 18:00 |
+| Panel Discussion: "Ask the Experts"     | 16:45 – 17:30 |
+| Breakout rooms for individual questions | 17:30 – 18:00 |
 
 [% / %]
 
