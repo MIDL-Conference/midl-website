@@ -46,8 +46,8 @@ Note that the schedule is tentative and might evolve.
 
 | Program                                 | Time Slot     |
 | --------                                | ---------     |
-| Welcome in Zoom                         | 15:50 - 16:00 |
-| Presentation “How to write an award-winning paper” including Q&A (Dr. Hoel Kervadec) | 16:00 - 16:45 |
+| Welcome in Zoom                         | 15:50 – 16:00 |
+| “How to write an award-winning paper” including Q&A (Dr. Hoel Kervadec) | 16:00 – 16:45 |
 | Panel Discussion: "Ask the Experts"     | 16:45 – 17:30 |
 | Breakout rooms for individual questions | 17:30 – 18:00 |
 
@@ -59,8 +59,8 @@ Note that the schedule is tentative and might evolve.
 
 | Program                                 | Time Slot     |
 | --------                                | ---------     |
-| Welcome in Zoom                         | 15:50 - 16:00 |
-| Presentation “How to write an outstanding review” including Q&A” (Dr. Lisa Koch) | 16:00 - 16:45 |
+| Welcome in Zoom                         | 15:50 – 16:00 |
+| “How to write an outstanding review” including Q&A (Dr. Lisa Koch) | 16:00 – 16:45 |
 | Panel Discussion: "Ask the Experts"     | 16:45 – 17:30 |
 | Breakout rooms for individual questions | 17:30 – 18:00 |
 
