@@ -35,6 +35,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 <a href="https://2025.midl.io">
     <img alt="Salt Lake City 2025" src="/images/cards/card-mini-2025.jpg" width=22%>
 </a>
+&emsp;
+<a href="/winter-workshop-25.html">
+    <img alt="Winter workshop 2025" src="/images/cards/card-mini-ww2025.jpg" width=22%>
+</a>
 
 ### Past editions
 
