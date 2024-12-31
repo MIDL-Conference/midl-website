@@ -17,6 +17,7 @@ As in previous editions, the core idea is to prepare early career researchers fo
 The Winter Workshop 2025 will take place on **11th December 2024** (for paper writing) and **29th January 2025** (for paper reviewing) as a virtual Zoom event. This year, the winter workshop is divided into two tracks. The event will be free of charge. However, a mandatory registration is necessary, and Zoom links will be sent out after registration.
 
 {{ button("Winter Workshop Registration Link", "https://forms.gle/5HQz6UQT1GmKdGnw5") }}
+{{ button("Paper writing workshop slides", "/files/ww25/midl_paperwriting_25_handout.pdf") }}
 
 ---
 
