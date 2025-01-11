@@ -5,7 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
-* **Khalifa University (Abu Dhabi)**: [Postdoc positions and PhD scholarships in satellite remote sensing (October 2024)](/job/khalifa_university)
+* **Khalifa University (Abu Dhabi)**: [Postdoc positions and PhD scholarships in satellite remote sensing (January 2025)](/job/khalifa_university)
 * **Hypervision Surgical**: [Research Scientist (October 2024)](https://hypervisionsurgical.com/career/2024-04_research-scientist/)
 * **IQ-BRAIN**: [16 PhD positions in trustworthy AI for quantitative MRI in neuro-imaging (October 2024)](/job/Vacancies_IQ-BRAIN_online_leaflet.pdf)
 * **Copenhagen University Hospital/Rigshospitalet**: [Postdoctoral Research Fellow in Trustworthy Healthcare AI for Mental Health Risk Prediction (September 2024)](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=342&ProjectId=258342&DepartmentId=17198&MediaId=5)
