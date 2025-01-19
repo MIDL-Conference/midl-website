@@ -5,6 +5,8 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **University Hospital Bonn (Germany)**: [Multiple postdoc, PhD, master thesis positions in advancing Foundation Models in Radiology (January 2025)](https://ccibonn.ai/post/job-research/)
+* **University Hospital Bonn (Germany)**: [Software engineer positions in computational radiology and medical AI (January 2025)](https://ccibonn.ai/post/job-se/)
 * **Khalifa University (Abu Dhabi)**: [Postdoc positions and PhD scholarships in satellite remote sensing (January 2025)](/job/khalifa_university)
 * **Hypervision Surgical**: [Research Scientist (October 2024)](https://hypervisionsurgical.com/career/2024-04_research-scientist/)
 * **IQ-BRAIN**: [16 PhD positions in trustworthy AI for quantitative MRI in neuro-imaging (October 2024)](/job/Vacancies_IQ-BRAIN_online_leaflet.pdf)
