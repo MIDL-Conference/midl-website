@@ -72,6 +72,6 @@ Note that the schedule is tentative and might evolve.
 ## Organization
 
 * Aisha Lawal, <A.Shuaibu@sussex.ac.uk>
-* Anna Wundram, <anna.wundram@student.uni-tuebingen.de>
+* Anna Wundram, <anna.wundram@unilu.ch>
 * Anwai Archit, <anwai.archit@uni-goettingen.de>
 * Joshua Astley, <j.r.astley@sheffield.ac.uk>
