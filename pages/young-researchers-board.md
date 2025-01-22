@@ -12,7 +12,7 @@ The Young Researcher Board will represent the interests of young researchers wit
 The young research board can be reached at [yrboard@midl.io](mailto:yrboard@midl.io)
 
 ## Members
-* [Joshua Astley](https://www.sheffield.ac.uk/smph/people/clinical-medicine/joshua-astley);
-* [Anna Wundram](https://www.mlmia-unitue.de/authors/anna-wundram/);
-* [Anwai Archit](https://github.com/anwai98);
-* [Aisha Lawal Shuaibu](https://profiles.sussex.ac.uk/p578428-aisha-lawal-shuaibu).
+* [Joshua Astley](https://www.sheffield.ac.uk/smph/people/clinical-medicine/joshua-astley); <A.Shuaibu@sussex.ac.uk>
+* [Anna Wundram](https://www.mlmia-unitue.de/authors/anna-wundram/); <anna.wundram@unilu.ch>
+* [Anwai Archit](https://github.com/anwai98); <anwai.archit@uni-goettingen.de>
+* [Aisha Lawal Shuaibu](https://profiles.sussex.ac.uk/p578428-aisha-lawal-shuaibu); <j.r.astley@sheffield.ac.uk>
