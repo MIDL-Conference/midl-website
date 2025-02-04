@@ -35,6 +35,8 @@ You want to submit your research to MIDL 2025, but you have troubles putting it 
 
 Were you invited to review for MIDL 2025, for another venue or even a journal? Do you want to take your first steps in writing reviews independently, or do you just want to become more efficient in doing so? Join this workshop on 29th January 2025 to learn how to write outstanding reviews. After a tutorial loaded with hints from experienced, senior colleagues, you will discuss real reviews and feedback from previous MIDL editions, including their rating by the program board. You will learn how to open up your own mind to grasp a manuscript from different perspectives, and how a review should be formulated to give value to the authors. We are proud that the workshop will be led by [Dr. Lisa Koch](https://mlm-lab.ch/) from the University of Bern. She will be supported by a great team, stay tuned.
 
+{{ button("Paper reviewing workshop recording", "https://drive.google.com/file/d/1xbs-kQcH4t2N9goyxaAOVbpqaGFLlpEh/view") }}
+
 ---
 
 ## Timetable
