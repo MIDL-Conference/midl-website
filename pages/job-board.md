@@ -5,6 +5,8 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **Cornell NYC AI for Medical Imaging (United States)** [Postdoctoral Cornell AIMI Fellowship (March 15 2025](https://docs.google.com/document/d/19YxpRxMvKwB3hvJIoaVIO8dauBriORoItoR3vNY2KyE/edit?usp=sharing)
+
 * **University of California, Irvine (United States)**  [Project Scientist in MRI and Image Processing](https://recruit.ap.uci.edu/JPF09490)
  
 * **University of California, Irvine (United States)** [Postdoctoral in Magnetic Resonance Imaging](https://recruit.ap.uci.edu/JPF09489)
