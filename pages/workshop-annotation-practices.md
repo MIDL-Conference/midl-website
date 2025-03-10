@@ -19,14 +19,20 @@ This workshop will bring together researchers to explore the complexities of med
 
 Dr. Veronika Cheplygina's research focuses on limited labeled scenarios in machine learning, in particular in medical image analysis, as well as meta-science in this field. She received her Ph.D. from Delft University of Technology in 2015. After a postdoc at the Erasmus Medical Center, in 2017 she started as an assistant professor at Eindhoven University of Technology. In 2020, failing to achieve various metrics, she left the tenure track of search of the next step where she can contribute to open and inclusive science. In 2021 she started as an associate professor at IT University of Copenhagen. Next to research and teaching, Veronika [blogs](https://www.veronikach.com) about academic life. She also loves cats, which you will often encounter in her work.
 
+*Abstract:* It may seem intuitive that we need high quality datasets to ensure robust algorithms for medical image classification. With the introduction of openly available, larger datasets, it might seem that the problem has been solved. However, this is far from being the case, as it turns out that even these datasets suffer from issues like label noise and shortcuts or confounders. Furthermore, there are behaviours in our research community that threaten the validity of published findings. In this talk I will discuss both types of issues with examples from recent papers, and how more work on annotation could help to address some of these problems.
+
 #### Professor Lena Maier-Hein (German Cancer Research Center (DKFZ)) ![Portrait of Lena Maier-Hein](/images/workshop-data-annotation/LHM_Bilder_01.png){: class="align-right" width="180" }
 
 Lena Maier-Hein is head of the division Intelligent Medical Systems at the German Cancer Research Center (DKFZ) and serves as managing director of the DKFZ Data Science and Digital Oncology cross-topic program. Her research concentrates on machine learning-based biomedical image analysis with a specific focus on surgical data science, computational biophotonics and validation of machine learning algorithms.
+
+*Abstract:* TBA
 
 #### Coen de Vente (qurAI, University of Amsterdam, Amsterdam UMC) ![Portrait of Coen de Vente](/images/workshop-data-annotation/Coen_de_Vente-1.jpg){: class="align-right" width="180" }
 
 Coen de Vente is a postdoctoral researcher in the qurAI group at Univeristy of Amsterdam. His research focuses on advancing AI for medical imaging with an emphasis on model robustness, including uncertainty estimation, generative modeling, and efficient annotation. His work primarily spans ophthalmology.
 He obtained his PhD from the University of Amsterdam, where he developed deep learning techniques for the analysis of retinal diseases using optical coherence tomography and color fundus imaging. He also contributed to the development of CORADS-AI, a deep learning system for assessing COVID-19 in chest CT. He co-organized the AIROGS challenge (Artificial Intelligence for RObust Glaucoma Screening), aiming to drive AI innovation in glaucoma detection.
+
+*Abstract:* TBA
 
 {{ button("Register here!", "https://forms.gle/ZQZPGWnX7qfSrTZc8") }}
 
