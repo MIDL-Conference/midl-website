@@ -32,6 +32,21 @@ He obtained his PhD from the University of Amsterdam, where he developed deep le
 
 The Zoom link to attend will be emailed to you upon completion of the event registration form.
 
+#### Timetable
+
+[% .invisible-table %]
+
+| Program                                 | Time Slot     |
+| --------                                | ---------     |
+| Welcome and Workshop Introduction       | 14:00 – 14:10 |
+| Curious Findings about Medical Image Datasets (Veronika Cheplygina) | 14:10 – 14:55 |
+| TBA (Coen de Vente)                     | 14:55 – 15:15 |
+| Break                                   | 15:15 – 15:30 |
+| Scientific Talk (Speaker TBA)           | 15:30 – 15:50 |
+| TBA (Lena Maier-Hein)                   | 15:50 – 16:35 |
+| Concluding Remarks                      | 16:35 – 16:45 |
+
+
 #### About the organizers
 
 Dieuwertje Luitse (Faculty of Humanities) and Maria Galanty (Informatics Institute) are PhD students at the University of Amsterdam and Amsterdam UMC, working under the supervision of Professor Ivana Išgum in an interdisciplinary collaboration focused on AI for health decision-making. In our recent work, "Assessing the Documentation of Publicly Available Medical Image and Signal Datasets and Their Impact on Bias Using the BEAMRAD Tool," we investigated biases that can arise from inadequate dataset documentation and conducted an in-depth analysis of 37 publicly available medical image and signal datasets. This research emphasized the crucial role of the annotation process and the significant challenges in achieving high-quality annotations. To further explore this topic, we aim to bring together a community of researchers in medical image analysis by organizing an online workshop on medical data annotation practices.
