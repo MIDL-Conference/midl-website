@@ -33,7 +33,7 @@ Lena Maier-Hein is head of the division Intelligent Medical Systems at the Germa
 Coen de Vente is a postdoctoral researcher in the qurAI group at Univeristy of Amsterdam. His research focuses on advancing AI for medical imaging with an emphasis on model robustness, including uncertainty estimation, generative modeling, and efficient annotation. His work primarily spans ophthalmology.
 He obtained his PhD from the University of Amsterdam, where he developed deep learning techniques for the analysis of retinal diseases using optical coherence tomography and color fundus imaging. He also contributed to the development of CORADS-AI, a deep learning system for assessing COVID-19 in chest CT. He co-organized the AIROGS challenge (Artificial Intelligence for RObust Glaucoma Screening), aiming to drive AI innovation in glaucoma detection.
 
-{{ button("Register here!", "https://forms.gle/ZQZPGWnX7qfSrTZc8") }}
+{{ button("Register here!", "https://forms.gle/QEcuCm59r3uSQHmj6") }}
 
 The Zoom link to attend will be emailed to you upon completion of the event registration form.
 
