@@ -45,7 +45,8 @@ The Zoom link to attend will be emailed to you upon completion of the event regi
 | --------                                | ---------     |
 | Welcome and Workshop Introduction       | 14:00 – 14:10 |
 | Curious Findings about Medical Image Datasets (Veronika Cheplygina) | 14:10 – 14:55 |
-| Lessons from the AIROGS Challenge: Collecting Reliable Annotations for Glaucoma Screening (Coen de Vente) | 14:55 – 15:15 |
+| Lessons from the AIROGS Challenge:      | 14:55 – 15:15 |
+| Collecting Reliable Annotations for Glaucoma Screening (Coen de Vente) | |
 | Break                                   | 15:15 – 15:30 |
 | Scientific Talk (Speaker TBA)           | 15:30 – 15:50 |
 | TBA (Lena Maier-Hein)                   | 15:50 – 16:35 |
