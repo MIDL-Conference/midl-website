@@ -38,6 +38,7 @@ To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.i
 
 ## Previous/closed vacancies
 
+* **University of California, Irvine (United States)**  [Project Scientist in MRI and Image Processing](https://recruit.ap.uci.edu/JPF09490)
 * **University of Washington (Kurtlab)**: [Postdoc, 'Applications of AI/ML in neuroimaging' (July 2024)](/job/kurtlab)
 * **PAICON GmbH**: [AI Scientist Medical Image Analysis (June 2024)](https://join.com/companies/paicon/11657698-deep-learning-scientist-for-medical-imaging)
 * **Radboud UMC**: [PhD candidate 'Multi-modal AI for detection and segmentation of metastatic cancer' (May 2024)](https://www.radboudumc.nl/en/vacancies/143321-phd-candidate-multi-modal-ai-for-detection-and-segmentation-of-metastatic-cancer)
