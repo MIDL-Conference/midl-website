@@ -36,7 +36,7 @@ Detail in the main body of the paper the publicly available materials from the s
 Do property rights allow the authors to make their code publicly available? If so, include a link to the repository that stores the code used for the project. For code sharing, the most common option is a public Git repository, for instance on _Github_. If storing large trained models is an issue, _Zenodo_, _AWS_, _OneDrive_, _Google Drive_, _Dropbox_, _Hugging Face_, etc. are popular choices. Details about how to access the code should be contained in the main body of the paper, and not only in the paper submission form. The repository should be available long-term.
 
 #### Are public datasets used? [Yes, No]
-Address here, if the dataset was collected for the project and is not made publicly available. If the training dataset is private, aim to evaluate on public datasets for comparability. Alternatively, mention if there are similar publicly available datasets for reference.
+Address here, if the dataset was collected for the project and is not made publicly available. If the training dataset is private, aim to evaluate on public datasets for comparability. Alternatively, mention if there are similar publicly available datasets for reference. If possible, _cite the dataset as any other paper_ (most of them have an associated publication), not only linking to it in a footnote.
 
 #### Repository: Are the required package dependencies listed? [Yes/No/NA]
 The packages that have been used to achieve the reported results, and their version numbers. Without exact version numbers, the repositories become more difficult to use and therefore lose their value over time.
