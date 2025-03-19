@@ -6,7 +6,7 @@ title: Job board
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
 * **Universiteit van Amsterdam (The Netherlands)** [PhD in Deep Learning for Echocardiography - Advancing Morphology and Function Analysis (deadline 2025-03-31)](https://werkenbij.uva.nl/en/vacancies/phd-in-deep-learning-for-echocardiography-advancing-morphology-and-function-analysis-netherlands-13884)
-* **University of Lübeck (Germany)** [Research Scientist 3D geometric medical deep learning (deadline 2025-03-21)](https://cloud.imi.uni-luebeck.de/s/6Q22NMwNFn5SX2f/download/Ausschreibung_Wissenschaftliche_rMitarbeiterIn_MHeinrich_2025_english_1page.pdf)
+* **University of Lübeck (Germany)** [Research Scientist 3D geometric medical deep learning (deadline 2025-03-28)](https://cloud.imi.uni-luebeck.de/s/6Q22NMwNFn5SX2f/download/Ausschreibung_Wissenschaftliche_rMitarbeiterIn_MHeinrich_2025_english_1page.pdf)
 * **Amsterdam UMC (The Netherlands)** [PhD AI-based analysis of fetal ultrasound (March 2025)](https://werkenbij.amsterdamumc.org/en/vacatures/research/phd-ai-based-analysis-of-fetal-ultrasound)
 * **Cornell NYC AI for Medical Imaging (United States)** [Postdoctoral Cornell AIMI Fellowship (deadline 2025-03-15)](https://docs.google.com/document/d/19YxpRxMvKwB3hvJIoaVIO8dauBriORoItoR3vNY2KyE/edit?usp=sharing)
 * **University of California, Irvine (United States)** [Postdoctoral in Magnetic Resonance Imaging](https://recruit.ap.uci.edu/JPF09489)
