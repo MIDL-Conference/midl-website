@@ -4,6 +4,8 @@ opengraph:
   image: "/images/mira-workshop/MIRA_website.png"
 ---
 
+{% from "_macros.html" import button %}
+
 ![MIDL presents "Medical Imaging Research in Africa" Workshop](/images/mira-workshop/MIRA_website.png)
 
 <h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Webinar on Medical Imaging Research in Africa</h1>
