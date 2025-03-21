@@ -8,9 +8,9 @@ opengraph:
 
 ![MIDL presents "Medical Imaging Research in Africa" Workshop](/images/mira-workshop/MIRA_website.png)
 
-<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Webinar on Medical Imaging Research in Africa</h1>
+<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Webinar on Medical Imaging Research in Africa (MIRA)</h1>
 
-The MIDL Young Researcher Board is proud to host a webinar on Medical Imaging Research in Africa (MIRA).
+The MIDL Young Researcher Board is proud to host a webinar on Medical Imaging Research in Africa.
 
 {{ button("MIRA Webinar Registration Link", "https://forms.gle/tfJTG9eD2kMAt6fN7") }}
 
