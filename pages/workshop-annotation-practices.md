@@ -42,7 +42,7 @@ He obtained his PhD from the University of Amsterdam, where he developed deep le
 
 ---
 
-{{ button("Register here!", "https://forms.gle/nf38Bg4rNYiZsmnv6") }}
+{{ button("Register here!", "https://forms.gle/Wehu64qBQaJWH1wq9") }}
 
 The Zoom link to attend will be emailed to you upon completion of the event registration form.
 
