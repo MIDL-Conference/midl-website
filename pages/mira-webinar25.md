@@ -8,7 +8,9 @@ opengraph:
 
 <h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Webinar on Medical Imaging Research in Africa</h1>
 
-The MIDL Young Researcher Board is proud to host a webinar on Medical Imaging Research in Africa.
+The MIDL Young Researcher Board is proud to host a webinar on Medical Imaging Research in Africa (MIRA).
+
+{{ button("MIRA Webinar Registration Link", "https://forms.gle/tfJTG9eD2kMAt6fN7") }}
 
 The development of machine learning methods and applications for medical imaging has evolved over the years. However, most developments have been targeted to high-income settings, limiting the advancement of healthcare solutions in low-to-middle-income countries. To bridge this gap, it is important to raise awareness to promote the development of accessible machine learning solutions for healthcare in low to middle income countries.
 
