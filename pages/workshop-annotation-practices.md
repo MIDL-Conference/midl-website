@@ -16,7 +16,7 @@ This workshop will bring together researchers to explore the complexities of med
 
 ---
 
-## Prof. dr. ir. Veronika Cheplygina ![Portrait of Veronika Cheplygina](/images/workshop-data-annotation/Veronika.jpg){: class="align-right" width="180" }
+## Prof. Dr. ir. Veronika Cheplygina ![Portrait of Veronika Cheplygina](/images/workshop-data-annotation/Veronika.jpg){: class="align-right" width="180" }
 ### IT University of Copenhagen
 #### Title: Curious Findings about Medical Image Datasets
 
