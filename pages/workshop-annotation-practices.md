@@ -16,11 +16,11 @@ This workshop will bring together researchers to explore the complexities of med
 
 ---
 
-## Dr. Veronika Cheplygina ![Portrait of Veronika Cheplygina](/images/workshop-data-annotation/Veronika.jpg){: class="align-right" width="180" }
+## Prof. dr. ir. Veronika Cheplygina ![Portrait of Veronika Cheplygina](/images/workshop-data-annotation/Veronika.jpg){: class="align-right" width="180" }
 ### IT University of Copenhagen
 #### Title: Curious Findings about Medical Image Datasets
 
-*Bio:* Dr. Veronika Cheplygina's research focuses on limited labeled scenarios in machine learning, in particular in medical image analysis, as well as meta-science in this field. She received her Ph.D. from Delft University of Technology in 2015. After a postdoc at the Erasmus Medical Center, in 2017 she started as an assistant professor at Eindhoven University of Technology. In 2020, failing to achieve various metrics, she left the tenure track of search of the next step where she can contribute to open and inclusive science. In 2021 she started as an associate professor at IT University of Copenhagen. Next to research and teaching, Veronika [blogs](https://www.veronikach.com) about academic life. She also loves cats, which you will often encounter in her work.
+*Bio:* Prof. Dr. Veronika Cheplygina's research focuses on limited labeled scenarios in machine learning, in particular in medical image analysis, as well as meta-science in this field. She received her Ph.D. from Delft University of Technology in 2015. After a postdoc at the Erasmus Medical Center, in 2017 she started as an assistant professor at Eindhoven University of Technology. In 2020, failing to achieve various metrics, she left the tenure track of search of the next step where she can contribute to open and inclusive science. In 2021 she joint IT University of Copenhagen, where she recently became a full professor. Next to research and teaching, Veronika [blogs](https://www.veronikach.com) about academic life. She also loves cats, which you will often encounter in her work.
 
 *Abstract:* It may seem intuitive that we need high quality datasets to ensure robust algorithms for medical image classification. With the introduction of openly available, larger datasets, it might seem that the problem has been solved. However, this is far from being the case, as it turns out that even these datasets suffer from issues like label noise and shortcuts or confounders. Furthermore, there are behaviours in our research community that threaten the validity of published findings. In this talk I will discuss both types of issues with examples from recent papers, and how more work on annotation could help to address some of these problems.
 
