@@ -5,6 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **University of California, Irvine (United States)** [Assistant Project Scientist in MRI and Image Processing (deadline: 2025/05/30)](https://recruit.ap.uci.edu/JPF09550)
 * **Dartmouth College, Geiselmed, NH United States** [Postdoctoral position in the Department of Biomedical Data Science (deadline 2025-06-30](https://geiselmed.dartmouth.edu/bmds/2024/10/21/post-doctoral-scholar-in-biomedical-data-science-at-dartmouth-bhattacharya-lab/)
 * **University of California, Irvine (United States)** [Assistant Project Scientist in MRI and Image Processing](https://recruit.ap.uci.edu/JPF09550)
 * **Universiteit van Amsterdam (The Netherlands)** [PhD in Deep Learning for Echocardiography - Advancing Morphology and Function Analysis (deadline 2025-03-31)](https://werkenbij.uva.nl/en/vacancies/phd-in-deep-learning-for-echocardiography-advancing-morphology-and-function-analysis-netherlands-13884)
