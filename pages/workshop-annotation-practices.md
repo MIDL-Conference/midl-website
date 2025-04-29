@@ -32,6 +32,15 @@ This workshop will bring together researchers to explore the complexities of med
 
 *Abstract:* Accurate biomedical image analysis relies heavily on high-quality annotations, yet the role of annotation instructions and quality assurance (QA) remains underexplored. This talk presents insights from two large-scale studies examining how improved labelling instructions and QA practices impact annotation performance. Practical strategies for optimizing instructions and allocating resources effectively will be discussed to maximize annotation performance — ultimately improving the reliability of biomedical image analysis pipelines.
 
+
+## Ylva Weeda ![Portrait of Ylva Weeda](/images/workshop-data-annotation/Coen_de_Vente-1.jpg){: class="align-right" width="180" }
+### Amsterdam UMC
+#### Title: The ‘Gold Standard’ in Pathology: How Solid is the Ground Truth?
+
+*Bio:* Ylva is a PhD candidate within the SELECT-AI project, a collaboration between the Amsterdam UMC, the University of Amsterdam, the Netherlands Cancer Institute and Ellogon.AI. In this project, she develops deep learning methods to predict biomarkers from histopathology whole slide images, aiming to enable personalized immunotherapy for patients with gastroesophageal cancer. 
+With a bachelor's and master's degree in Technical Medicine from TU Delft, Ylva combines her expertise in technology and healthcare as a technical physician. Her aim is to bridge the gap between fundamental AI research and clinical practice, making sure that innovations truly benefit patients.
+
+
 ## Coen de Vente ![Portrait of Coen de Vente](/images/workshop-data-annotation/Coen_de_Vente-1.jpg){: class="align-right" width="180" }
 ### qurAI, University of Amsterdam, Amsterdam UMC
 #### Title: Lessons from the AIROGS Challenge: Collecting Reliable Annotations for Glaucoma Screening
