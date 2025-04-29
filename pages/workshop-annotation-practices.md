@@ -33,7 +33,7 @@ This workshop will bring together researchers to explore the complexities of med
 *Abstract:* Accurate biomedical image analysis relies heavily on high-quality annotations, yet the role of annotation instructions and quality assurance (QA) remains underexplored. This talk presents insights from two large-scale studies examining how improved labelling instructions and QA practices impact annotation performance. Practical strategies for optimizing instructions and allocating resources effectively will be discussed to maximize annotation performance — ultimately improving the reliability of biomedical image analysis pipelines.
 
 
-## Ylva Weeda ![Portrait of Ylva Weeda](/images/workshop-data-annotation/Coen_de_Vente-1.jpg){: class="align-right" width="180" }
+## Ylva Weeda ![Portrait of Ylva Weeda](/images/workshop-data-annotation/Ylva_Weeda.jpg){: class="align-right" width="180" }
 ### Amsterdam UMC
 #### Title: The ‘Gold Standard’ in Pathology: How Solid is the Ground Truth?
 
@@ -67,7 +67,7 @@ May 14, 2025 at 14:00 CEST (UTC+2)
 | Lessons from the AIROGS Challenge:      | 14:55 – 15:15 |
 | Collecting Reliable Annotations for Glaucoma Screening (Coen de Vente) | |
 | Break                                   | 15:15 – 15:30 |
-| Scientific Talk (Speaker TBA)           | 15:30 – 15:50 |
+| The ‘Gold Standard’ in Pathology: How Solid is the Ground Truth? (Ylva Weede) | 15:30 – 15:50 |
 | Getting it Right: Unlocking Better Annotation Data       | 15:50 – 16:35 |
 | through Improved Instructions and QA (Tim Rädsch) | |
 | Concluding Remarks                      | 16:35 – 16:45 |
