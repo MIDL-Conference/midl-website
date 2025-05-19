@@ -5,6 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **University of Cambridge (UK) Department of Radiology**: [Postdoctoral Researcher in Coronary Imaging AI (closes: 2025/06/03)](https://www.jobs.cam.ac.uk/job/51344/)
 * **Department of Radiology and Imaging Sciences, NIH Clinical Center, US** [Post-Doctoral Fellowship Multi-Modal AI and Foundation Models for Precision Medicine (posted 2025-05-06)](/job/NIH_Medical_Image_Analysis_Postdoc_04_2025.pdf)
 * **University of North Carolina at Chapel Hill (Chapel Hill, NC)** [Artificial intelligence in healthcare postdoctoral fellow (Deadline: 6/15/2025)](https://unc.peopleadmin.com/postings/290717)
 * **University of California, Irvine (United States)** [Assistant Project Scientist in MRI and Image Processing (deadline: 2025/05/30)](https://recruit.ap.uci.edu/JPF09550)
