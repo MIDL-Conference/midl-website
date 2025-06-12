@@ -16,7 +16,6 @@ To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.i
 * **Amsterdam UMC (The Netherlands)** [PhD AI-based analysis of fetal ultrasound (posted: March 2025)](https://werkenbij.amsterdamumc.org/en/vacatures/research/phd-ai-based-analysis-of-fetal-ultrasound)
 * **Cornell NYC AI for Medical Imaging (United States)** [Postdoctoral Cornell AIMI Fellowship (deadline 2025-03-15)](https://docs.google.com/document/d/19YxpRxMvKwB3hvJIoaVIO8dauBriORoItoR3vNY2KyE/edit?usp=sharing)
 * **University of California, Irvine (United States)** [Postdoctoral in Magnetic Resonance Imaging](https://recruit.ap.uci.edu/JPF09489)
-* **University of California, Irvine (United States)** [Postdoctoral in Deep Learning in Medical Image Processing](https://recruit.ap.uci.edu/JPF09488)
 * **University Hospital Bonn (Germany)**: [Multiple postdoc, PhD, master thesis positions in advancing Foundation Models in Radiology (posted: January 2025)](https://ccibonn.ai/post/job-research/)
 * **University Hospital Bonn (Germany)**: [Software engineer positions in computational radiology and medical AI (posted: January 2025)](https://ccibonn.ai/post/job-se/)
 * **Khalifa University (Abu Dhabi)**: [Postdoc positions and PhD scholarships in satellite remote sensing (posted: January 2025)](/job/khalifa_university)
