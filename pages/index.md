@@ -37,6 +37,9 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 </a>
 
 ### Upcoming events
+<a href="/mh-webinar25.html">
+    <img alt="Mental Health Webinar" src="/images/cards/card-mini-mhw.png" width=22%>
+</a>&emsp;
 <a href="/yr-showcase25.html">
     <img alt="YR Showcase" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
 </a>

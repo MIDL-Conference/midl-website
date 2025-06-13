@@ -16,11 +16,11 @@ The MIDL Young Researcher (YR) Showcase is designed to be a premier event for yo
 
 This is a great opportunity for early career researchers to gain experience in presenting their work. As an extra incentive, prizes will be awarded for outstanding abstracts and presentations!
 
-The YR Showcase will take place on 10 September, 2025, 15:00-17:30 UTC+0 as a virtual Zoom event. If you wish to submit an abstract, please use the registration link below. Attendees not submitting an abstract are also encouraged to register to receive Zoom links for the event. The event will be free of charge.
+The YR Showcase will take place on **10 September, 2025, 15:00-17:30 UTC+0** as a virtual Zoom event. If you wish to submit an abstract, please use the registration link below. Attendees not submitting an abstract are also encouraged to register to receive Zoom links for the event. The event will be free of charge.
 
 {{ button("YR Showcase Event Registration Link", "https://docs.google.com/forms/d/e/1FAIpQLSd4ZJzMV9GErupaLsPxl4LAAo6iUH7zAFoWXv2cKakqWVEqjg/viewform?pli=1&fbzx=8987897233971190000") }}
 
-The abstract submission deadline is 9 August, 01:00 UTC+0.
+The abstract submission deadline is **9 August, 01:00 UTC+0**.
 
 After the showcase, all participants are welcome to stay on the Zoom link for a social gathering (if you so wish)! Please note that a detailed schedule will be amended at a later date.
 
