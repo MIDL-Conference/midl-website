@@ -14,7 +14,7 @@ The MIDL Young Researcher Board is happy to announce its upcoming webinar focuse
 
 {{ button("Mental Health Awareness Webinar Registration Link", "https://forms.gle/LuvudyLGZdbxVYPK6") }}
 
-Did you know that graduate students and PhD candidates experience anxiety and depression at rates over six times higher than the general population? [1] These numbers highlight just how critical it is to address mental health in academic environments. By raising awareness and fostering open conversations, we can help break the stigma surrounding mental health.
+Did you know that early career researchers experience anxiety and depression at rates over six times higher than the general population? [1] These numbers highlight just how critical it is to address mental health in academia. By raising awareness and fostering open conversations, we can help break the stigma surrounding mental health.
 
 ![Potrait of Sophie Valeix](/images/mh-webinar25/SV_photo.jpg){: class="align-right" width="180"}
 
