@@ -37,4 +37,4 @@ A detailed programme will be published closer to the event.
 
 ## Reference
 
-[1] Evans, T., Bira, L., Gastelum, J. et al. Evidence for a mental health crisis in graduate education. <i>Nat Biotech.</i> 36, 282–284 (2018). <a href="https://doi.org/10.1038/nbt.4089">https://doi.org/10.1038/nbt.4089</a>
+[1] Evans, T., Bira, L., Gastelum, J. et al. Evidence for a mental health crisis in graduate education. <i>Nat Biotechnol</i> (2018). <a href="https://doi.org/10.1038/nbt.4089">https://doi.org/10.1038/nbt.4089</a>
