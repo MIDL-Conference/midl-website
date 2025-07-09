@@ -5,6 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **Stanford University, Stanford Radiology and Stanford Urology, USA**: [Multiple Postdoc opportunities to develop multimodal foundation models (posted: 2025/07/09)](/job/stanford_postdoc.html)
 * **Probabilistic Vision Group and Medical Imaging Lab, McGill University, Montréal, Canada**: [PhD Position: Deep Learning for Medical Image Analysis (posted: 2025/07/09)](/job/Announcement_of_PhD_in_Medical_Image_Analysis_-_2025.pdf)
 * **Probabilistic Vision Group and Medical Imaging Lab, McGill University, Montréal, Canada**: [Postdoctoral Fellow Position: Deep Learning for Medical Image Analysis (posted: 2025/07/09)](/job/Announcement_of_Postdoc_in_Medical_Image_Analysis_-_2025.pdf)
 * **MASI Lab at Vanderbilt University, Nashville, TN, USA**: [Postdoctoral Fellows positions (posted: 2025/07/09)](https://www.vanderbilt.edu/postdoc/prospective-postdocs/current-opportunities/?id=798)
