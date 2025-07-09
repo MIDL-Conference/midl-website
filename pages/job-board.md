@@ -6,6 +6,7 @@ title: Job board
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
 
+* **MASI Lab at Vanderbilt University, Nashville, TN, USA**: [Postdoctoral Fellows positions](https://www.vanderbilt.edu/postdoc/prospective-postdocs/current-opportunities/?id=798)
 * **The University of Utah, USA**: [Tenure-track Faculty Position of Cancer Data Science, Huntsman Cancer Institute (closes: 2025/09/30)](https://utah.peopleadmin.com/postings/172824)
 * **Elucid, Boston, MA, USA**: [Senior Software Engineer - Medical Imaging Visualization, C++ (posted: 2025/07/09)](https://elucid.applytojob.com/apply/iH2qhGq3LA/Senior-Software-Engineer-Medical-Imaging-Visualization-C)
 * **Elucid, Boston, MA, USA**: [Principal Image Processing Engineer (posted: 2025/07/09)](https://elucid.applytojob.com/apply/gVjZhEO8Iq/Principal-Image-Processing-Engineer)
