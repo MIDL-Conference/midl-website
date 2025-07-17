@@ -7,6 +7,7 @@ To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.i
 
 * **University of Göttingen, Germany** at [**Computational Cell Analytics Group**](https://user.informatik.uni-goettingen.de/~pape41/): [PostDoc Position (posted: 2025/07/17): Artificial Intelligence (AI) for Dynamic Nanoscale Imaging](https://www.uni-goettingen.de/de/699489.html)
 * **University of Göttingen, Germany** at [**Computational Cell Analytics Group**](https://user.informatik.uni-goettingen.de/~pape41/): [PhD Position (posted: 2025/07/17): Artificial Intelligence (AI) for Dynamic Nanoscale Imaging](https://www.uni-goettingen.de/de/699491.html)
+* **University of Utah, Department of Pathology**: [Multiple Postdoctoral Fellowship Positions: Multi-modal data integration for patient outcome predictions (posted: 2025/07/17](https://utah.peopleadmin.com/postings/184888) 
 * **Stanford University, Stanford Radiology and Stanford Urology, USA**: [Multiple Postdoc opportunities to develop multimodal foundation models (posted: 2025/07/09)](/job/stanford_postdoc.html)
 * **Probabilistic Vision Group and Medical Imaging Lab, McGill University, Montréal, Canada**: [PhD Position: Deep Learning for Medical Image Analysis (posted: 2025/07/09)](/job/Announcement_of_PhD_in_Medical_Image_Analysis_-_2025.pdf)
 * **Probabilistic Vision Group and Medical Imaging Lab, McGill University, Montréal, Canada**: [Postdoctoral Fellow Position: Deep Learning for Medical Image Analysis (posted: 2025/07/09)](/job/Announcement_of_Postdoc_in_Medical_Image_Analysis_-_2025.pdf)
