@@ -20,7 +20,7 @@ The YR Showcase will take place on **10 September, 2025, 15:00-17:30 UTC+0** as 
 
 {{ button("YR Showcase Event Registration Link", "https://docs.google.com/forms/d/e/1FAIpQLSd4ZJzMV9GErupaLsPxl4LAAo6iUH7zAFoWXv2cKakqWVEqjg/viewform?pli=1&fbzx=8987897233971190000") }}
 
-The abstract submission deadline is **16 August, 01:00 UTC+0**.
+The abstract submission deadline is **22 August, 01:00 UTC+0**.
 
 After the showcase, all participants are welcome to stay on the Zoom link for a social gathering (if you so wish)! Please note that a detailed schedule will be amended at a later date.
 
