@@ -4,7 +4,8 @@ title: Job board
 # Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
-
+* **Pathobiology group of Gilead Sciences (Foster City, CA, USA)** [computational pathology scientist (digital pathology and AI) ](https://gilead.yello.co/jobs/tprtu0ZWQ85gRSxt1gOOQw/job_boards/v42vD4vKxb3AkKvV93YsrQ)
+* **University of California, Irvine (United States)** at Department of Radiological Sciences [Postdoctoral in MRI, Image Processing, Deep Learning, Motion Correction](https://radiology.uci.edu/postdoctoral-research-in-mri-image-processing-deep-learning-motion-correction/)
 * **University of Göttingen, Germany** at [**Computational Cell Analytics Group**](https://user.informatik.uni-goettingen.de/~pape41/): [PostDoc Position (posted: 2025/07/17): Artificial Intelligence (AI) for Dynamic Nanoscale Imaging](https://www.uni-goettingen.de/de/699489.html)
 * **University of Göttingen, Germany** at [**Computational Cell Analytics Group**](https://user.informatik.uni-goettingen.de/~pape41/): [PhD Position (posted: 2025/07/17): Artificial Intelligence (AI) for Dynamic Nanoscale Imaging](https://www.uni-goettingen.de/de/699491.html)
 * **University of Utah, Department of Pathology**: [Multiple Postdoctoral Fellowship Positions: Multi-modal data integration for patient outcome predictions (posted: 2025/07/17](https://utah.peopleadmin.com/postings/184888) 
