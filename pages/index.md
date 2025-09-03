@@ -37,9 +37,6 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 </a>
 
 ### Upcoming events
-<a href="/mh-webinar25.html">
-    <img alt="Mental Health Webinar" src="/images/cards/card-mini-mhw.png" width=22%>
-</a>&emsp;
 <a href="/yr-showcase25.html">
     <img alt="YR Showcase" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
 </a>
@@ -70,8 +67,9 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 </a>
 
 ### Past events
-
-<a href="/mira-webinar25.html">
+<a href="/mh-webinar25.html">
+    <img alt="Mental Health Webinar" src="/images/cards/card-mini-mhw.png" width=22%>
+</a>&emsp;<a href="/mira-webinar25.html">
     <img alt="Medical Imaging Research in Africa Webinar" src="/images/cards/card-mini-mira25.png" width=22%>
 </a>&emsp;<a href="/winter-workshop-25.html">
     <img alt="Winter workshop 2025" src="/images/cards/card-mini-ww2025.jpg" width=22%>
