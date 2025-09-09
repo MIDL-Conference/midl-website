@@ -6,12 +6,6 @@ title: 'MIDL Young Researcher Board'
 
 # MIDL Young Researcher Board
 
-## About the Young Researcher Board
-
-We are excited to announce the formation of the MIDL Young Researcher Board! This initiative is aimed at strengthening the voice and addressing the interests of young researchers within our society and foundation.
-
-The Young Researcher Board will represent the interests of young researchers within the MIDL community. It will also organize online events that are particularly relevant to young researchers and stimulate their active involvement in the MIDL society.
-
 ## Announcement
 
 We are excited to invite applications to join the MIDL Young Researcher Board!
