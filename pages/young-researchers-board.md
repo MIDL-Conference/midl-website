@@ -1,6 +1,9 @@
 ---
 title: 'MIDL Young Researcher Board'
 ---
+
+{% from "_macros.html" import button %}
+
 # MIDL Young Researcher Board
 
 ## About the Young Researcher Board
