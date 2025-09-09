@@ -17,7 +17,9 @@ This initiative is aimed at strengthening the voice and addressing the interests
 
 We have organized multiple online events in the past that are particularly relevant to early career researchers and will continue to stimulate their active involvement in the MIDL community.
 
-Are you an early career researcher (pursuing your Master's, PhD, or an early Post-Doc)? Do you have exciting ideas for events or initiatives aimed at young researchers? Take an active role in shaping them by joining the Young Researcher Board! Apply now by filling out [this](https://docs.google.com/forms/d/e/1FAIpQLSdEBMjZ_rQjttr9c8zwx0AfZjgDl3tDWKMpKDs62rK9FdWxmg/viewform?usp=dialog) form. The applications are open until 01.12.2025.
+Are you an early career researcher (pursuing your Master's, PhD, or an early Post-Doc)? Do you have exciting ideas for events or initiatives aimed at young researchers? It's your time now to take an active role in shaping them by joining the Young Researcher Board! Apply now by filling out the form below. The applications are open until 01.12.2025.
+
+{{ button("Join the MIDL Young Researcher Board Form", "https://forms.gle/fQ7m6wjNLacGv3x66") }}
 
 The Young Research Board can be reached at [yrboard@midl.io](mailto:yrboard@midl.io)
 
