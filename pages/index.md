@@ -31,9 +31,6 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 ### Upcoming editions
 <a href="https://2026.midl.io">
     <img alt="Taipei 2026" src="/images/cards/card-mini-2026.jpg" width=22%>
-</a>&emsp;
-<a href="https://2025.midl.io">
-    <img alt="Salt Lake City 2025" src="/images/cards/card-mini-2025.jpg" width=22%>
 </a>
 
 ### Upcoming events
@@ -43,6 +40,9 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 
 ### Past editions
 
+<a href="https://2025.midl.io">
+    <img alt="Salt Lake City 2025" src="/images/cards/card-mini-2025.jpg" width=22%>
+</a>&emsp;
 <a href="https://2024.midl.io">
     <img alt="Paris 2024" src="/images/cards/card-mini-2024.jpg" width=22%>
 </a>&emsp;
@@ -52,10 +52,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 &emsp;<a href="https://2022.midl.io">
     <img alt="Zürich 2022" src="/images/cards/card-mini-2022.jpg" width=22%>
 </a>
-&emsp;<a href="https://2021.midl.io">
-    <img alt="Lübeck 2021" src="/images/cards/card-mini-2021.jpg" width=22%>
-</a>
 
+<a href="https://2021.midl.io">
+    <img alt="Lübeck 2021" src="/images/cards/card-mini-2021.jpg" width=22%>
+</a>&emsp;
 <a href="https://2020.midl.io">
     <img alt="Montréal 2020" src="/images/cards/card-mini-2020.jpg" width=22%>
 </a>
