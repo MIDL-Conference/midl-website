@@ -5,6 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **University of Lübeck, Germany** [**Medical Deep Learning Lab**](https://www.imi.uni-luebeck.de/en/research/medical-deep-learning-lab): [4-year post-doc researcher medical LLMs and synthetic data](https://www.b-ite.com/recruitingmanager/job-postings/share/RZofeh9qwEmT3KfikgUoZFRYBEQRcEVfQVaVDHxGfAt643VG3CS6dwYP0ufgnDUO)
 * **Pathobiology group of Gilead Sciences (Foster City, CA, USA)** [computational pathology scientist (digital pathology and AI) ](https://gilead.yello.co/jobs/tprtu0ZWQ85gRSxt1gOOQw/job_boards/v42vD4vKxb3AkKvV93YsrQ)
 * **University of California, Irvine (United States)** at Department of Radiological Sciences [Postdoctoral in MRI, Image Processing, Deep Learning, Motion Correction](https://radiology.uci.edu/postdoctoral-research-in-mri-image-processing-deep-learning-motion-correction/)
 * **University of Göttingen, Germany** at [**Computational Cell Analytics Group**](https://user.informatik.uni-goettingen.de/~pape41/): [PostDoc Position (posted: 2025/07/17): Artificial Intelligence (AI) for Dynamic Nanoscale Imaging](https://www.uni-goettingen.de/de/699489.html)
