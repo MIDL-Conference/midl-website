@@ -61,8 +61,8 @@ Note that the schedule is tentative and might evolve.
 | Program                                 | Time Slot     |
 | --------                                | ---------     |
 | Welcome in Zoom                         | 15:50 – 16:00 |
-| Presentation “How to write an outstanding review”  (Dr. Hoel Kervadec) | 16:00 – 16:45 |
-| Q&A: “Ask the expert”                   | 16:45 – 17:30 |
+| Presentation “How to write an outstanding review”  (Dr. Hoel Kervadec) | 16:00 – 16:30 |
+| Q&A: “Ask the expert”                   | 16:30 – 17:15 |
 
 [% / %]
 
