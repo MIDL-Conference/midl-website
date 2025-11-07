@@ -33,11 +33,6 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
     <img alt="Taipei 2026" src="/images/cards/card-mini-2026.jpg" width=22%>
 </a>
 
-### Upcoming events
-<a href="/yr-showcase25.html">
-    <img alt="YR Showcase" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
-</a>
-
 ### Past editions
 
 <a href="https://2025.midl.io">
