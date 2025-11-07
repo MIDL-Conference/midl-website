@@ -33,6 +33,9 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
     <img alt="Taipei 2026" src="/images/cards/card-mini-2026.jpg" width=22%>
 </a>
 
+### Upcoming events
+
+
 ### Past editions
 
 <a href="https://2025.midl.io">
@@ -62,7 +65,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 </a>
 
 ### Past events
-<a href="/mh-webinar25.html">
+<a href="/yr-showcase25.html">
+    <img alt="YR Showcase" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
+</a>
+&emsp;<a href="/mh-webinar25.html">
     <img alt="Mental Health Webinar" src="/images/cards/card-mini-mhw.png" width=22%>
 </a>&emsp;<a href="/mira-webinar25.html">
     <img alt="Medical Imaging Research in Africa Webinar" src="/images/cards/card-mini-mira25.png" width=22%>
@@ -78,3 +84,4 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 &emsp;<a href="/winter-workshop.html">
     <img alt="Winter Workshop 2021" src="/images/cards/card-mini-ww2021.jpg" width=22%>
 </a>
+
