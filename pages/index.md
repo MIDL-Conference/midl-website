@@ -30,12 +30,12 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 ---
 ### Upcoming editions
 <a href="https://2026.midl.io">
-    <img alt="Taipei 2026" src="/images/cards/card-mini-winter-workshop25.png" width=22%>
+    <img alt="Taipei 2026" src="/images/cards/card-mini-2026.jpg" width=22%>
 </a>
 
 ### Upcoming events
 <a href="/winter-workshop-26.html">
-    <img alt="Winter Workshop 2026" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
+    <img alt="Winter Workshop 2026" src="/images/cards/card-mini-winter-workshop25.png" width=22%>
 </a>
 
 ### Past editions
