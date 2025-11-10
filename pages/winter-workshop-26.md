@@ -24,12 +24,12 @@ The Winter Workshop 2025/26 will take place on **26 November 2025** and **15 Dec
 
 The core idea of the Winter Workshop is to support young researchers in taking their first steps towards authoring a publication or serving as a reviewer. Therefore, the event hosts two workshop tracks that will be run on two different dates, namely „How to write an award-winning paper“ and „How to write an outstanding review“. Both workshops will feature an introductory tutorial followed by an open discussion forum. Due to the strategic date of the Winter Workshop, the participants will be directly prepared to submit to or review for MIDL 2026.
 
-## How to write an award-winning paper ![Potrait of Emma Robinson](/images/winter-workshop/pic_emma.jpeg){: class="align-right" width="180" }
+### How to write an award-winning paper ![Potrait of Emma Robinson](/images/winter-workshop/pic_emma.jpeg){: class="align-right" width="180" }
 
 You want to submit your research to MIDL 2026, but you have troubles putting it all together in 10 pages? You do not have a lot of experience with writing papers or you just want to impress the reviewers with your next submission? You are curious about the new Validation Studies (Special Track) introduced this year? Join this workshop to learn how to make your paper award-winning! We are happy that the workshop will be led by [Dr. Emma Robinson](https://metrics-lab.github.io) from King’s College London. After a tutorial full of valuable inputs and dos & don’ts, there will be a discussion forum to answer all of your pressing questions. This will be followed by a vital discussion led by [Dr. Hoel Kervadec](https://hoel.kervadec.science) from University of Amsterdam on how to compress a paper without losing content. So if you are planning to submit to MIDL 2026, consider bringing your first draft and go out with a substantially improved version.
 
 
-## How to write an award-winning paper ![Potrait of Hoel Kervadec](/images/winter-workshop/pic_hoel.jpg){: class="align-right" width="180" }
+### How to write an outstanding review ![Potrait of Hoel Kervadec](/images/winter-workshop/pic_hoel.jpg){: class="align-right" width="180" }
 
 Were you invited to review for MIDL 2026, for another venue or even a journal? Do you want to take your first steps in writing reviews independently or do you just want to become more efficient in doing so? Join this workshop to learn how to write outstanding reviews led by [Dr. Hoel Kervadec](https://hoel.kervadec.science). This session will feature valuable insights from experienced, senior colleagues and you will learn how to open up your own mind to grasp a manuscript from different perspectives and how a review should be formulated to give value to the authors.
 
