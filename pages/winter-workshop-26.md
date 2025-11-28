@@ -17,6 +17,8 @@ As in previous editions, the core idea is to prepare early career researchers fo
 The Winter Workshop 2025/26 will take place on **26 November 2025** and **15 December 2025** as a virtual Zoom event. Like last year, it is divided into two workshop tracks. The event will be free of charge. However, a mandatory registration is necessary, and Zoom links will be sent out after registration.
 
 {{ button("Winter Workshop Registration Link", "https://forms.gle/RPy9F6Pr1GqJSjNP9") }}
+{{ button("Paper Writing Workshop Slides", "https://emckclac-my.sharepoint.com/:p:/g/personal/k1644933_kcl_ac_uk/IQB_yDeezkLZQ6LKIF_YLntbAdTN7N3W5tWVwdBvZtB0lYc?e=xODjHF") }}
+{{ button("Paper Writing Workshop Zoom Recording", "https://drive.google.com/file/d/1K0ez6ruy-7zfkwzo6HyssEf0qTnorFvA/view?usp=sharing") }}
 
 ---
 
