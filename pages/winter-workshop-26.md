@@ -19,6 +19,8 @@ The Winter Workshop 2025/26 will take place on **26 November 2025** and **15 Dec
 {{ button("Winter Workshop Registration Link", "https://forms.gle/RPy9F6Pr1GqJSjNP9") }}
 {{ button("Paper Writing Workshop Slides", "https://emckclac-my.sharepoint.com/:p:/g/personal/k1644933_kcl_ac_uk/IQB_yDeezkLZQ6LKIF_YLntbAdTN7N3W5tWVwdBvZtB0lYc?e=xODjHF") }}
 {{ button("Paper Writing Workshop Zoom Recording", "https://drive.google.com/file/d/1K0ez6ruy-7zfkwzo6HyssEf0qTnorFvA/view?usp=sharing") }}
+{{ button("Paper Reviewing Workshop Slides", "https://drive.google.com/file/d/1_y88H5F5_WUranCw3KhaNBqdsOKtQk5_/view?usp=sharing") }}
+{{ button("Paper Reviewing Workshop Zoom Recording", "https://drive.google.com/file/d/16BLpOMCdxLceg9ptz9SSTuTCs6PakbIT/view?usp=sharing") }}
 
 ---
 
