@@ -7,15 +7,18 @@ title: "Board"
 The [MIDL Foundation](/foundation.html) is governed by the following board members:
 
 * [Alessa Hering](https://www.diagnijmegen.nl/people/alessa-hering/), satellite events;
-* [Bram van Ginneken](https://www.diagnijmegen.nl/people/bram-van-ginneken/), treasurer, member of the MIDL Foundation Executive Board;
 * [Emma C. Robinson](https://metrics-lab.github.io/), member;
 * [Bennett A. Landman](https://my.vanderbilt.edu/masi/), member;
 * [Geert Litjens](https://www.computationalpathologygroup.eu/members/geert-litjens/), secretary, member of the MIDL Foundation Executive Board;
 * [Hoel Kervadec](https://hoel.kervadec.science), communication;
 * [Ismail Ben Ayed](https://scholar.google.fr/citations?user=29vyUccAAAAJ&hl=fr&oi=ao), member;
-* [Ivana Išgum](https://qurai.amsterdam/researcher/ivana-isgum/), chair, member of the MIDL Foundation Executive Board;
 * [Jannis Hagenah](https://eng.ox.ac.uk/people/jannis-hagenah/), satellite events;
 * [Mattias P. Heinrich](https://www.imi.uni-luebeck.de/en/institute/staff/heinrich-mattias.html), member.
+
+
+### Alumni
+* [Ivana Išgum](https://qurai.amsterdam/researcher/ivana-isgum/), (2018–2025);
+* [Bram van Ginneken](https://www.diagnijmegen.nl/people/bram-van-ginneken/), (2018–2026);
 
 ---
 
