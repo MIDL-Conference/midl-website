@@ -9,7 +9,7 @@ The [MIDL Foundation](/foundation.html) is governed by the following board membe
 * [Ismail Ben Ayed](https://scholar.google.fr/citations?user=29vyUccAAAAJ&hl=fr&oi=ao), member;
 * [Stergios Christodoulidis](https://stergioc.github.io/), member;
 * [Shireen Elhabian](https://www.sci.utah.edu/~shireen/), member;
-* [Jannis Hagenah](https://eng.ox.ac.uk/people/jannis-hagenah/), satellite events;
+* [Jannis Hagenah](https://j-hagenah.github.io/), satellite events;
 * [Mattias P. Heinrich](https://www.imi.uni-luebeck.de/en/institute/staff/heinrich-mattias.html), member;
 * [Alessa Hering](https://www.diagnijmegen.nl/people/alessa-hering/), satellite events;
 * [Hoel Kervadec](https://hoel.kervadec.science), communication;
