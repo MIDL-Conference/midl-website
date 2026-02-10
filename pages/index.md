@@ -34,8 +34,8 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 </a>
 
 ### Upcoming events
-<a href="/winter-workshop-26.html">
-    <img alt="Winter Workshop 2026" src="/images/cards/card-mini-winter-workshop25.png" width=22%>
+<a href="/yr-storytime.html">
+    <img alt="Storytime Session" src="/images/cards/card-storytime-square-graphic.jpg" width=22%>
 </a>
 
 ### Past editions
@@ -67,7 +67,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 </a>
 
 ### Past events
-<a href="/yr-showcase25.html">
+<a href="/winter-workshop-26.html">
+    <img alt="Winter Workshop 2026" src="/images/cards/card-mini-winter-workshop25.png" width=22%>
+</a>
+&emsp;<a href="/yr-showcase25.html">
     <img alt="YR Showcase" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
 </a>
 &emsp;<a href="/mh-webinar25.html">
