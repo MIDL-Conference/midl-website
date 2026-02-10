@@ -54,6 +54,9 @@ nav:
   # - title: "YR Showcase"
   #   path: "/yr-showcase25.html"
   #   icon: "microphone"
+  - title: "Storytime Session"
+    path: /yr-storytime.html
+    icon: "microphone"
   - title: "Winter Workshop 2026"
     path: "/winter-workshop-26.html"
     icon: "snowflake"
