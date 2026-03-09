@@ -5,6 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **University of Lübeck, Germany** [**Medical Deep Learning Lab**](https://www.imi.uni-luebeck.de/en/research/medical-deep-learning-lab): [3-year Research Associate (PhD Position, deadline 18th March 2026) – Implicit Neural Representations for 3D Medical Imaging](https://stellenangebote.uni-luebeck.de/jobposting/893abe636051d6f5de299be1ae340475b0c3d8130)
 * **University of Chicago** [Postdoctoral Scholar Position in Medical Image Computing](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/2/1168/files/2026/01/Porras_PostdocPosting.pdf)
 * **University of Cambridge (UK) Department of Radiology**: [ Postdoctoral Researcher in Imaging AI funded by the Academy of Medical Sciences (closes: 1 February 2026)](https://www.cam.ac.uk/jobs/imaging-ai-research-associate-fixed-term-rq48442)
 * **University of Amsterdam**: [Assistant Professor in AI & Medical Image Analysis (closes 6th Feb 2026)](https://werkenbij.uva.nl/en/vacancies/assistant-professor-in-ai-medical-image-analysis-netherlands-14709)
