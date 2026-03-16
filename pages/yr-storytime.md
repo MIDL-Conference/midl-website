@@ -4,7 +4,7 @@ opengraph:
   image: "/images/yr-storytime/storytime-graphic.jpg"
 ---
 
-{% from "_macros.html" import button %}
+{% from "_macros.html" import button, youtube %}
 
 ![MIDL presents "Storytime Session"](/images/yr-storytime/storytime-graphic.jpg)
 
