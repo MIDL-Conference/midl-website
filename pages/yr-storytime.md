@@ -15,7 +15,7 @@ The MIDL Young Researcher Board is proud to present a new series: Story Time Ses
 <!-- {{ button("Storytime #1 Registration Link", "https://forms.gle/3UX6sKGn9WkV49KE8") }} -->
 {{ button("Storytime #1 Zoom Recording", "https://drive.google.com/file/d/1lrZB4R1qcwLMCgxUGlrnrO1vqFd1uVhj/view?usp=sharing") }}
 
-### About our story teller ![Potrait of Julia Schnabel&emsp;](/images/yr-storytime/pic_julia.jpg){: class="align-right" width="180" }
+### About our story teller ![Potrait of Julia Schnabel;](/images/yr-storytime/pic_julia.jpg){: class="align-right" width="180" }
 
 Julia A. Schnabel is Professor of Computational Imaging and AI in Medicine at [Technical University of Munich](https://www.professoren.tum.de/schnabel-julia) and Director of the Institute of Machine Learning in Biomedical Imaging at [Helmholtz Center Munich](https://www.helmholtz-munich.de/en/iml/julia-schnabel) with a joint affiliation as Chair in Computational Imaging at [King’s College London](https://www.kcl.ac.uk/people/julia-a-schnabel). She was awarded the PhD in Computer Science from University College London, UK. Next, she joined the University of Oxford, UK, as Associate Professor in Engineering Science (Medical Imaging), where she became Full Professor of Engineering Science by Recognition of Distinction. Her research interests include machine/deep learning, nonlinear motion modeling, as well as multimodality and quantitative imaging, for cancer imaging, cardiac imaging, neuroimaging and perinatal imaging.
 
