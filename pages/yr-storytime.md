@@ -12,7 +12,6 @@ opengraph:
 
 The MIDL Young Researcher Board is proud to present a new series: Story Time Sessions. In these sessions, our invited guest would share their career journey and lessons learned along the way. We are delighted to announce our first speaker in this series will be Professor Julia A. Schnabel. The first Story Time Session will take place on **24 February 2026 at 4pm UTC** as a virtual Zoom event. The event will be free of charge. However, a mandatory registration is necessary, and Zoom links will be sent out after registration.
 
-<!-- {{ button("Storytime #1 Registration Link", "https://forms.gle/3UX6sKGn9WkV49KE8") }} -->
 {{ button("Storytime #1 Zoom Recording", "https://drive.google.com/file/d/1lrZB4R1qcwLMCgxUGlrnrO1vqFd1uVhj/view?usp=sharing") }}
 
 ### About our story teller ![Potrait of Julia Schnabel](/images/yr-storytime/pic_julia.jpg){: class="align-right" width="180" }
