@@ -33,10 +33,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
     <img alt="Taipei 2026" src="/images/cards/card-mini-2026.jpg" width=22%>
 </a>
 
-### Upcoming events
+<!-- ### Upcoming events
 <a href="/yr-storytime.html">
     <img alt="Storytime Session" src="/images/cards/card-storytime-square-graphic.jpg" width=22%>
-</a>
+</a> -->
 
 ### Past editions
 
@@ -67,7 +67,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 </a>
 
 ### Past events
-<a href="/winter-workshop-26.html">
+<a href="/yr-storytime.html">
+    <img alt="Storytime Session" src="/images/cards/card-storytime-square-graphic.jpg" width=22%>
+</a>
+&emsp;<a href="/winter-workshop-26.html">
     <img alt="Winter Workshop 2026" src="/images/cards/card-mini-winter-workshop25.png" width=22%>
 </a>
 &emsp;<a href="/yr-showcase25.html">
