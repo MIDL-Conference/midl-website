@@ -1,5 +1,5 @@
 ---
-title: "Storytime Session 26"
+title: "Storytime Session 2026"
 opengraph:
   image: "/images/yr-storytime/storytime-graphic.jpg"
 ---
@@ -8,17 +8,13 @@ opengraph:
 
 ![MIDL presents "Storytime Session"](/images/yr-storytime/storytime-graphic.jpg)
 
-<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Storytime Session 26</h1>
+<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Storytime Session 2026</h1>
 
 The MIDL Young Researcher Board is proud to present a new series: Story Time Sessions. In these sessions, our invited guest shares their career journey and key lessons learned along the way. We are delighted to announce our second speaker in this series will be Professor Virginie Uhlmann. The second Story Time Session will take place on **20 May 2026 at 15:30 UTC** as a virtual Zoom event. The event will be free of charge. However, a mandatory registration is necessary, and Zoom links will be sent out after registration.
 
 **Story Time registration link:** to be added
 
-Please come with some great questions for our speaker. Storytime sessions represent a unique opportunity to learn from some of the most experienced researchers in our field.
-
-*Speaker image to be inserted here.*
-
-## About our storyteller
+## About our storyteller ![Portrait of Virginie Uhlmann](/images/yr-storytime/pic_virginie.jpg)
 
 Virginie Uhlmann is Assistant Professor in Bioimaging and Data Analysis in the Department of Molecular Life Sciences at the University of Zurich and Director of the BioVisionCenter at the University of Zurich. She is also a Research Group Leader at the European Bioinformatics Institute (EMBL-EBI), Cambridge, UK. She obtained her MSc in Bioengineering and PhD in Electrical Engineering from EPFL, Switzerland, followed by postdoctoral research in the Biomedical Imaging Group at EPFL. Her research interests include quantitative bioimage analysis, approximation theory, machine learning, and computational geometry, with a focus on developing methods to quantify morphology from microscopy images across scales, modalities, and biological systems.
 
@@ -28,11 +24,11 @@ Virginie Uhlmann is Assistant Professor in Bioimaging and Data Analysis in the D
 
 [% .invisible-table %]
 
-| Program                           | Time Slot     |
-| --------                          | ---------     |
-| Welcome in Zoom                   | 15:30 - 15:40 |
-| Prof Virginie Uhlmann presentation | 15:40 - 16:25 |
-| Questions for our speaker         | 16:25 - 16:40 |
+| Program                                    | Time Slot     |
+| --------                                   | ---------     |
+| Welcome in Zoom                            | 15:30 - 15:40 |
+| Presentation by Professor Virginie Uhlmann | 15:40 - 16:25 |
+| Questions for our Speaker                  | 16:25 - 16:40 |
 
 [% / %]
 
@@ -43,8 +39,12 @@ Virginie Uhlmann is Assistant Professor in Bioimaging and Data Analysis in the D
 * Kerol Djoumessi, <kerol@aims.ac.za>
 * Savannah Hays, <shays6@jhu.edu>
 
+## Past (Co)Organization
+* Aisha Lawal, <A.Shuaibu@sussex.ac.uk>
+* Joshua Astley, <j.r.astley@sheffield.ac.uk>
+
 ## Previous Session Recording
 
-Professor Julia A. Schnabel opened the Story Time Sessions series with a conversation about her career journey and lessons from research leadership.
+Professor Julia A. Schnabel opened the Story Time Sessions series.
 
 {{ button("Storytime Zoom Recording", "https://drive.google.com/file/d/1lrZB4R1qcwLMCgxUGlrnrO1vqFd1uVhj/view?usp=sharing") }}
