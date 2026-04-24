@@ -90,8 +90,6 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 &emsp;<a href="/autumn-academy.html">
     <img alt="Autumn Academy 2022" src="/images/cards/card-mini-aa2022.jpg" width=22%>
 </a>
-
-
-<a href="/winter-workshop.html">
+&emsp;<a href="/winter-workshop.html">
     <img alt="Winter Workshop 2021" src="/images/cards/card-mini-ww2021.jpg" width=22%>
 </a>
