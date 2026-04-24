@@ -12,7 +12,7 @@ opengraph:
 
 The MIDL Young Researcher Board is proud to present a new series: Story Time Sessions. In these sessions, our invited guest shares their career journey and key lessons learned along the way. We are delighted to announce our second speaker in this series will be Professor Virginie Uhlmann. The second Story Time Session will take place on **20 May 2026 at 15:30 UTC** as a virtual Zoom event. The event will be free of charge. However, a mandatory registration is necessary, and Zoom links will be sent out after registration.
 
-**Story Time registration link:** to be added
+{{ button("Story Time Registration Link", "https://forms.gle/jFN5E9HzRyocpgpu6") }}
 
 ## About our storyteller ![Portrait of Virginie Uhlmann](/images/yr-storytime/pic_virginie.jpg){: class="align-right" width="180" }
 
