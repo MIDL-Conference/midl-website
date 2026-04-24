@@ -14,7 +14,7 @@ The MIDL Young Researcher Board is proud to present a new series: Story Time Ses
 
 **Story Time registration link:** to be added
 
-## About our storyteller ![Portrait of Virginie Uhlmann](/images/yr-storytime/pic_virginie.jpg)
+## About our storyteller ![Portrait of Virginie Uhlmann](/images/yr-storytime/pic_virginie.jpg){: class="align-right" width="180" }
 
 Virginie Uhlmann is Assistant Professor in Bioimaging and Data Analysis in the Department of Molecular Life Sciences at the University of Zurich and Director of the BioVisionCenter at the University of Zurich. She is also a Research Group Leader at the European Bioinformatics Institute (EMBL-EBI), Cambridge, UK. She obtained her MSc in Bioengineering and PhD in Electrical Engineering from EPFL, Switzerland, followed by postdoctoral research in the Biomedical Imaging Group at EPFL. Her research interests include quantitative bioimage analysis, approximation theory, machine learning, and computational geometry, with a focus on developing methods to quantify morphology from microscopy images across scales, modalities, and biological systems.
 
