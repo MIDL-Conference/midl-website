@@ -1,5 +1,5 @@
 ---
-title: "Storytime Session 2026"
+title: "Storytime Session 26"
 opengraph:
   image: "/images/yr-storytime/storytime-graphic.jpg"
 ---
@@ -8,37 +8,43 @@ opengraph:
 
 ![MIDL presents "Storytime Session"](/images/yr-storytime/storytime-graphic.jpg)
 
-<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Storytime Session 2026</h1>
+<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Storytime Session 26</h1>
 
-The MIDL Young Researcher Board is proud to present a new series: Story Time Sessions. In these sessions, our invited guest would share their career journey and lessons learned along the way. We are delighted to announce our first speaker in this series will be Professor Julia A. Schnabel. The first Story Time Session will take place on **24 February 2026 at 4pm UTC** as a virtual Zoom event. The event will be free of charge. However, a mandatory registration is necessary, and Zoom links will be sent out after registration.
+The MIDL Young Researcher Board is proud to present a new series: Story Time Sessions. In these sessions, our invited guest shares their career journey and key lessons learned along the way. We are delighted to announce our second speaker in this series will be Professor Virginie Uhlmann. The second Story Time Session will take place on **20 May 2026 at 15:30 UTC** as a virtual Zoom event. The event will be free of charge. However, a mandatory registration is necessary, and Zoom links will be sent out after registration.
 
-{{ button("Storytime Zoom Recording", "https://drive.google.com/file/d/1lrZB4R1qcwLMCgxUGlrnrO1vqFd1uVhj/view?usp=sharing") }}
+**Story Time registration link:** to be added
 
-### About our story teller ![Potrait of Julia Schnabel](/images/yr-storytime/pic_julia.jpg){: class="align-right" width="180" }
+Please come with some great questions for our speaker. Storytime sessions represent a unique opportunity to learn from some of the most experienced researchers in our field.
 
-Julia A. Schnabel is Professor of Computational Imaging and AI in Medicine at [Technical University of Munich](https://www.professoren.tum.de/schnabel-julia) and Director of the Institute of Machine Learning in Biomedical Imaging at [Helmholtz Center Munich](https://www.helmholtz-munich.de/en/iml/julia-schnabel) with a joint affiliation as Chair in Computational Imaging at [King’s College London](https://www.kcl.ac.uk/people/julia-a-schnabel). She was awarded the PhD in Computer Science from University College London, UK. Next, she joined the University of Oxford, UK, as Associate Professor in Engineering Science (Medical Imaging), where she became Full Professor of Engineering Science by Recognition of Distinction. Her research interests include machine/deep learning, nonlinear motion modeling, as well as multimodality and quantitative imaging, for cancer imaging, cardiac imaging, neuroimaging and perinatal imaging.
+*Speaker image to be inserted here.*
 
-We invite you all to bring your questions for our speaker - storytime sessions represent a unique opportunity to learn from some of the most experienced researchers in our field.
+## About our storyteller
+
+Virginie Uhlmann is Assistant Professor in Bioimaging and Data Analysis in the Department of Molecular Life Sciences at the University of Zurich and Director of the BioVisionCenter at the University of Zurich. She is also a Research Group Leader at the European Bioinformatics Institute (EMBL-EBI), Cambridge, UK. She obtained her MSc in Bioengineering and PhD in Electrical Engineering from EPFL, Switzerland, followed by postdoctoral research in the Biomedical Imaging Group at EPFL. Her research interests include quantitative bioimage analysis, approximation theory, machine learning, and computational geometry, with a focus on developing methods to quantify morphology from microscopy images across scales, modalities, and biological systems.
 
 ## Timetable
-
-Note that the schedule is tentative and might evolve.
 
 (all times UTC 0)
 
 [% .invisible-table %]
 
-| Program                                  | Time Slot     |
-| --------                                 | ---------     |
-| Welcome in Zoom                          | 15:50 – 16:00 |
-| Presentation by Professor Julia Schnabel | 16:00 – 16:45 |
-| Questions for our Speaker                | 16:45 – 17:00 |
+| Program                           | Time Slot     |
+| --------                          | ---------     |
+| Welcome in Zoom                   | 15:30 - 15:40 |
+| Prof Virginie Uhlmann presentation | 15:40 - 16:25 |
+| Questions for our speaker         | 16:25 - 16:40 |
 
 [% / %]
 
 ## Organization
 
-* Aisha Lawal, <A.Shuaibu@sussex.ac.uk>
 * Anna Wundram, <anna.wundram@unilu.ch>
 * Anwai Archit, <anwai.archit@uni-goettingen.de>
-* Joshua Astley, <j.r.astley@sheffield.ac.uk>
+* Kerol Djoumessi, <kerol@aims.ac.za>
+* Savannah Hays, <shays6@jhu.edu>
+
+## Previous Session Recording
+
+Professor Julia A. Schnabel opened the Story Time Sessions series with a conversation about her career journey and lessons from research leadership.
+
+{{ button("Storytime Zoom Recording", "https://drive.google.com/file/d/1lrZB4R1qcwLMCgxUGlrnrO1vqFd1uVhj/view?usp=sharing") }}
