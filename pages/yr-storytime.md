@@ -45,6 +45,4 @@ Virginie Uhlmann is Assistant Professor in Bioimaging and Data Analysis in the D
 
 ## Previous Session Recording
 
-Professor Julia A. Schnabel opened the Story Time Sessions series.
-
-{{ button("Storytime Zoom Recording", "https://drive.google.com/file/d/1lrZB4R1qcwLMCgxUGlrnrO1vqFd1uVhj/view?usp=sharing") }}
+Session #1 Speaker: Professor Julia A. Schnabel. [Storytime Zoom Recording Session #1](https://drive.google.com/file/d/1lrZB4R1qcwLMCgxUGlrnrO1vqFd1uVhj/view?usp=sharing)
