@@ -35,6 +35,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 
 ### Upcoming events
 
+<p class="centered">
+    <a href="/conference-prep-workshop.html" class="button">Conference Prep Workshop</a>
+</p>
+
 <a href="/yr-storytime.html">
     <img alt="Storytime Session" src="/images/cards/card-storytime-square-graphic.jpg" width=22%>
 </a>
