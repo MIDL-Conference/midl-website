@@ -1,8 +1,12 @@
 ---
 title: "Conference Prep Workshop"
+opengraph:
+  image: "/images/conference-prep-26/conferenceprepworkshop-banner.png"
 ---
 
 {% from "_macros.html" import button %}
+
+![Conference Prep Workshop](/images/conference-prep-26/conferenceprepworkshop-banner.png)
 
 <h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Conference Prep Workshop</h1>
 
