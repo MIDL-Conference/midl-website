@@ -28,6 +28,10 @@ In this interactive session, we'll cover:
 * Small-group breakout sessions to practice your pitch
 * Open Q&A to address your specific questions and concerns
 
+## Schedule
+
+A detailed schedule will be announced soon. Stay tuned!
+
 ## Who should join?
 
 Graduate students, postdocs, and early-career researchers attending MIDL 2026, whether it's your first conference or your tenth.
