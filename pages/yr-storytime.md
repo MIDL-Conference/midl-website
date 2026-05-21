@@ -14,6 +14,8 @@ The MIDL Young Researcher Board is proud to present a new series: Story Time Ses
 
 {{ button("Story Time Registration Link", "https://forms.gle/jFN5E9HzRyocpgpu6") }}
 
+{{ button("Storytime Zoom Recording Session #2", "https://drive.google.com/file/d/1uE8WCB88B7toU_LT9zhTj7T4c2Ori7UN/view?usp=sharing") }}
+
 ## About our storyteller ![Portrait of Virginie Uhlmann](/images/yr-storytime/pic_virginie.jpg){: class="align-right" width="180" }
 
 Virginie Uhlmann is Assistant Professor in Bioimaging and Data Analysis in the Department of Molecular Life Sciences at the University of Zurich and Director of the BioVisionCenter at the University of Zurich. She is also a Research Group Leader at the European Bioinformatics Institute (EMBL-EBI), Cambridge, UK. She obtained her MSc in Bioengineering and PhD in Electrical Engineering from EPFL, Switzerland, followed by postdoctoral research in the Biomedical Imaging Group at EPFL. Her research interests include quantitative bioimage analysis, approximation theory, machine learning, and computational geometry, with a focus on developing methods to quantify morphology from microscopy images across scales, modalities, and biological systems.
@@ -43,6 +45,8 @@ Virginie Uhlmann is Assistant Professor in Bioimaging and Data Analysis in the D
 * Aisha Lawal, <A.Shuaibu@sussex.ac.uk>
 * Joshua Astley, <j.r.astley@sheffield.ac.uk>
 
-## Previous Session Recording
+## Previous Session Recordings
+
+Session #2 Speaker: Professor Virginie Uhlmann. [Storytime Zoom Recording Session #2](https://drive.google.com/file/d/1uE8WCB88B7toU_LT9zhTj7T4c2Ori7UN/view?usp=sharing)
 
 Session #1 Speaker: Professor Julia A. Schnabel. [Storytime Zoom Recording Session #1](https://drive.google.com/file/d/1lrZB4R1qcwLMCgxUGlrnrO1vqFd1uVhj/view?usp=sharing)
