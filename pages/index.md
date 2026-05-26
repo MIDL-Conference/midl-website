@@ -1,6 +1,7 @@
 ---
 title: Medical Imaging with Deep Learning
 # page_class: home
+
 ---
 <!-- [% .cards .large %] -->
 # Medical Imaging with Deep Learning
