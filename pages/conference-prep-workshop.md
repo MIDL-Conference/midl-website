@@ -1,22 +1,22 @@
 ---
-title: "Conference Prep Workshop"
+title: "Pre-Conference Online Workshop"
 opengraph:
   image: "/images/conference-prep-26/conferenceprepworkshop-banner.png"
 ---
 
 {% from "_macros.html" import button %}
 
-![Conference Prep Workshop](/images/conference-prep-26/conferenceprepworkshop-banner.png)
+![Pre-Conference Online Workshop](/images/conference-prep-26/conferenceprepworkshop-banner.png)
 
-<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Conference Prep Workshop</h1>
+<h1 style="font-size: 30px; margin-top: 30px; margin-bottom: 24px">Pre-Conference Online Workshop</h1>
 
 Getting ready for Medical Imaging with Deep Learning 2026 in Taiwan this July?
-Join the MIDL Young Researcher Board (YRB) for a virtual Conference Prep Workshop designed to help you feel confident, prepared, and ready to make the most of your conference experience.
+Join the MIDL Young Researcher Board (YRB) for a virtual Pre-Conference Online Workshop designed to help you feel confident, prepared, and ready to make the most of your conference experience.
 
 The workshop will take place on **Tuesday, 16 June 2026, at 5:30 PM CEST** via Zoom.
 The event will be free of charge. However, mandatory registration is necessary, and Zoom links will be sent out after registration.
 
-{{ button("Conference Prep Workshop Registration Link", "https://forms.gle/MH7SBG2esYHeNv8s6") }}
+{{ button("Pre-Conference Online Workshop Registration Link", "https://forms.gle/MH7SBG2esYHeNv8s6") }}
 
 ## What to expect
 
