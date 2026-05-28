@@ -28,9 +28,20 @@ In this interactive session, we'll cover:
 * Small-group breakout sessions to practice your pitch
 * Open Q&A to address your specific questions and concerns
 
-## Schedule
+## Schedule (Tentative)
 
-A detailed schedule will be announced soon. Stay tuned!
+(all times CEST)
+
+[% .invisible-table %]
+
+| Program                                                         | Time Slot     |
+| --------                                                        | ---------     |
+| Welcome & Orientation                                           | 5:30 – 5:45 PM |
+| Building Your Research Pitch                                    | 5:45 – 5:55 PM |
+| Breakout Sessions: Pitch Practice                               | 5:55 – 6:15 PM |
+| Open Q&A + Discussion                                           | 6:15 – 6:30 PM |
+
+[% / %]
 
 ## Who should join?
 
