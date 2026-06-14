@@ -4,6 +4,8 @@ title: Job board
 # Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
+* **University of Montpellier, France** PINKCC lab, pinkcc.com [Postdoctoral Position:
+Multimodal Data Integration for Ovarian Cancer, rolling basis. Expected start date: autumn 2026](https://www.notion.so/Join-the-PINKCC-Lab-Precision-Imaging-AI-in-Cancer-Care-2a7b1f338a7f8043928ece398769c497?p=37ab1f338a7f80bc9166d34613abb90d&pm=s)
 * **UiT The Arctic University of Norway, Tromso** Faculty of Science and Technology, Machine Learning Group: [Postdoctoral Research Fellow in Machine Learning, 26th April 2026](https://www.jobbnorge.no/en/available-jobs/job/297935/postdoctoral-research-fellow-in-machine-learning)
 * **University of Lübeck, Germany** [**Medical Deep Learning Lab**](https://www.imi.uni-luebeck.de/en/research/medical-deep-learning-lab): [3-year Research Associate (PhD Position, deadline 18th March 2026) – Implicit Neural Representations for 3D Medical Imaging](https://stellenangebote.uni-luebeck.de/jobposting/893abe636051d6f5de299be1ae340475b0c3d8130)
 * **University of Chicago** [Postdoctoral Scholar Position in Medical Image Computing](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/2/1168/files/2026/01/Porras_PostdocPosting.pdf)
