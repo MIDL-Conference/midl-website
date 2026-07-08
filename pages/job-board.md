@@ -5,6 +5,7 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **Icahn School of Medicine at Mount Sinai (New York, NY, USA)** [Postdoctoral Research Fellow in Multimodal AI for Prostate Cancer Imaging](https://careers.mountsinai.org/jobs/3039272?lang=en-us)
 * **Harvard Medical School (Quin), US** [Research Fellow / Research Scientist Generative AI, Vision-Language Models, and Medical Image Analysis, ASAP](https://labs.childrenshospital.org/files/quin/files/documents/quin_ai_job_ad_bch_hms.pdf)
 * **University of Montpellier, France** PINKCC lab, pinkcc.com [Postdoctoral Position:
 Multimodal Data Integration for Ovarian Cancer, rolling basis. Expected start date: autumn 2026](https://www.notion.so/Join-the-PINKCC-Lab-Precision-Imaging-AI-in-Cancer-Care-2a7b1f338a7f8043928ece398769c497?p=37ab1f338a7f80bc9166d34613abb90d&pm=s)
