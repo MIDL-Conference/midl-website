@@ -30,19 +30,22 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 
 ---
 ### Upcoming editions
-<a href="https://2026.midl.io">
-    <img alt="Taipei 2026" src="/images/cards/card-mini-2026.jpg" width=22%>
+<a href="https://2027.midl.io">
+    <img alt="Porto 2027" src="/images/cards/card-mini-2027.jpg" width=22%>
 </a>
 
-### Upcoming events
+<!-- ### Upcoming events -->
 
-<a href="/conference-prep-workshop.html">
+<!-- <a href="/conference-prep-workshop.html">
     <img alt="Pre-Conference Online Workshop" src="/images/cards/conferenceprepworkshop_square.png" width=22%>
-</a>
+</a> -->
 
 
 ### Past editions
 
+<a href="https://2026.midl.io">
+    <img alt="Taipei 2026" src="/images/cards/card-mini-2026.jpg" width=22%>
+</a>&emsp;
 <a href="https://2025.midl.io">
     <img alt="Salt Lake City 2025" src="/images/cards/card-mini-2025.jpg" width=22%>
 </a>&emsp;
@@ -52,10 +55,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 <a href="https://2023.midl.io">
     <img alt="Nashville 2023" src="/images/cards/card-mini-2023.jpg" width=22%>
 </a>
-&emsp;<a href="https://2022.midl.io">
-    <img alt="Zürich 2022" src="/images/cards/card-mini-2022.jpg" width=22%>
-</a>
 
+<a href="https://2022.midl.io">
+    <img alt="Zürich 2022" src="/images/cards/card-mini-2022.jpg" width=22%>
+</a>&emsp;
 <a href="https://2021.midl.io">
     <img alt="Lübeck 2021" src="/images/cards/card-mini-2021.jpg" width=22%>
 </a>&emsp;
@@ -65,12 +68,16 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 &emsp;<a href="https://2019.midl.io">
     <img alt="London 2019" src="/images/cards/card-mini-2019.jpg" width=22%>
 </a>
-&emsp;<a href="https://2018.midl.io">
+
+<a href="https://2018.midl.io">
     <img alt="Amsterdam 2018" src="/images/cards/card-mini-2018.jpg" width=22%>
-</a>
+</a>&emsp;
 
 ### Past events
-<a href="/yr-storytime.html">
+<a href="/conference-prep-workshop.html">
+    <img alt="Pre-Conference Online Workshop" src="/images/cards/conferenceprepworkshop_square.png" width=22%>
+</a>
+&emsp;<a href="/yr-storytime.html">
     <img alt="Storytime Session" src="/images/cards/card-storytime-square-graphic.jpg" width=22%>
 </a>
 &emsp;<a href="/winter-workshop-26.html">
@@ -79,7 +86,8 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 &emsp;<a href="/yr-showcase25.html">
     <img alt="YR Showcase" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
 </a>
-&emsp;<a href="/mh-webinar25.html">
+
+<a href="/mh-webinar25.html">
     <img alt="Mental Health Webinar" src="/images/cards/card-mini-mhw.png" width=22%>
 </a>
 &emsp;<a href="/mira-webinar25.html">
@@ -91,7 +99,8 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 &emsp;<a href="/winter-workshop-24.html">
     <img alt="Winter Workshop 2024" src="/images/cards/card-mini-ww2024.jpg" width=22%>
 </a>
-&emsp;<a href="/autumn-academy.html">
+
+<a href="/autumn-academy.html">
     <img alt="Autumn Academy 2022" src="/images/cards/card-mini-aa2022.jpg" width=22%>
 </a>
 &emsp;<a href="/winter-workshop.html">
