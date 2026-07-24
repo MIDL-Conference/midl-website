@@ -34,7 +34,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
     <img alt="Porto 2027" src="/images/cards/card-mini-2027.jpg" width=22%>
 </a>
 
-<!-- ### Upcoming events -->
+### Upcoming events
+<a href="/yr-showcase26.html">
+    <img alt="YR Showcase 2026" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
+</a>
 
 <!-- <a href="/conference-prep-workshop.html">
     <img alt="Pre-Conference Online Workshop" src="/images/cards/conferenceprepworkshop_square.png" width=22%>
