@@ -16,7 +16,7 @@ The MIDL Young Researcher Showcase is designed to be the premier event for young
 
 This is a great opportunity for young researchers to gain experience in writing, presenting and discussing their work. As an extra incentive, prizes will be available for outstanding abstracts and presentations!
 
-The MIDL Young Researcher Showcase will take place on **23 September, 14:00-16:30 UTC+0** as a virtual Zoom event. If you wish to submit an abstract, please do so using the link below. Attendees not submitting an abstract are also encouraged to register to receive Zoom links for the event. The event will be free of charge.
+The MIDL Young Researcher Showcase will take place on **23 September, 14:00-15:00 UTC+0** as a virtual Zoom event. If you wish to submit an abstract, please do so using the link below. Attendees not submitting an abstract are also encouraged to register to receive Zoom links for the event. The event will be free of charge.
 
 {{ button("Registration and Abstract Submission Link", "https://forms.gle/R6UWhUgkkdUAnohA8") }}
 
