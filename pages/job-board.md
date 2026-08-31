@@ -5,8 +5,9 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **University Medical Center Göttingen, Germany** [2 Research Fellow positions in Surgical Video Analysis](/job/CDS_JobOffering.pdf)
 * **University of Luebeck, Germany** (Co-opted with Prof. Mattias Heinrich's: lab) [Tenure-track assistant professorship, Data Synthesis and Foundation Models in Medicine](https://stellenangebote.uni-luebeck.de/jobposting/440e3d1aa236e21361f313d202edabb4f21201c00)
-
+* **University of Luebeck, Germany** (Co-opted with Prof. Mattias Heinrich's: lab) [Tenure-track assistant professorship, Data Synthesis and Foundation Models in Medicine](https://stellenangebote.uni-luebeck.de/jobposting/440e3d1aa236e21361f313d202edabb4f21201c00)
 * **Icahn School of Medicine at Mount Sinai (New York, NY, USA)** [Postdoctoral Research Fellow in Multimodal AI for Prostate Cancer Imaging](https://careers.mountsinai.org/jobs/3039272?lang=en-us)
 * **Harvard Medical School (Quin), US** [Research Fellow / Research Scientist Generative AI, Vision-Language Models, and Medical Image Analysis, ASAP](https://labs.childrenshospital.org/files/quin/files/documents/quin_ai_job_ad_bch_hms.pdf)
 * **University of Montpellier, France** PINKCC lab, pinkcc.com [Postdoctoral Position:
