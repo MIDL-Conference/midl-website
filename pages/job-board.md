@@ -5,6 +5,8 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **University of Oklahoma** [Research Assistant Professor of Computer Science - Medical Imaging Informatics and AI for Translational Cancer Research](https://apply.interfolio.com/191967)
+  
 * **University Medical Center Göttingen, Germany** [2 Research Fellow positions in Surgical Video Analysis](/job/CDS_JobOffering.pdf)
 * **University of Luebeck, Germany** (Co-opted with Prof. Mattias Heinrich's: lab) [Tenure-track assistant professorship, Data Synthesis and Foundation Models in Medicine](https://stellenangebote.uni-luebeck.de/jobposting/440e3d1aa236e21361f313d202edabb4f21201c00)
 * **University of Luebeck, Germany** (Co-opted with Prof. Mattias Heinrich's: lab) [Tenure-track assistant professorship, Data Synthesis and Foundation Models in Medicine](https://stellenangebote.uni-luebeck.de/jobposting/440e3d1aa236e21361f313d202edabb4f21201c00)
