@@ -50,7 +50,7 @@ nav:
     icon: "stethoscope"
   - title: "MIDL 2027"
     path: "https://2027.midl.io"
-    icon: "archway"
+    icon: "wine-glass-alt"
   # - title: "MIDL 2026"
   #   path: "https://2026.midl.io"
   #   icon: "building"
