@@ -35,9 +35,6 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 </a>
 
 ### Upcoming events
-<a href="/yr-showcase26.html">
-    <img alt="YR Showcase 2026" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
-</a>
 <a href="/meet-the-clinic.html">
     <img alt="Meet the Clinic" src="/images/cards/card-mini-meet-the-clinic.png" width=22%>
 </a>
@@ -80,7 +77,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 </a>&emsp;
 
 ### Past events
-<a href="/conference-prep-workshop.html">
+<a href="/yr-showcase26.html">
+    <img alt="YR Showcase 2026" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
+</a>
+&emsp;<a href="/conference-prep-workshop.html">
     <img alt="Pre-Conference Online Workshop" src="/images/cards/conferenceprepworkshop_square.png" width=22%>
 </a>
 &emsp;<a href="/yr-storytime.html">
@@ -89,11 +89,11 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 &emsp;<a href="/winter-workshop-26.html">
     <img alt="Winter Workshop 2026" src="/images/cards/card-mini-winter-workshop25.png" width=22%>
 </a>
-&emsp;<a href="/mh-webinar25.html">
+
+<a href="/mh-webinar25.html">
     <img alt="Mental Health Webinar" src="/images/cards/card-mini-mhw.png" width=22%>
 </a>
-
-<a href="/mira-webinar25.html">
+&emsp;<a href="/mira-webinar25.html">
     <img alt="Medical Imaging Research in Africa Webinar" src="/images/cards/card-mini-mira25.png" width=22%>
 </a>
 &emsp;<a href="/winter-workshop-25.html">
@@ -102,10 +102,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 &emsp;<a href="/winter-workshop-24.html">
     <img alt="Winter Workshop 2024" src="/images/cards/card-mini-ww2024.jpg" width=22%>
 </a>
-&emsp;<a href="/autumn-academy.html">
+
+<a href="/autumn-academy.html">
     <img alt="Autumn Academy 2022" src="/images/cards/card-mini-aa2022.jpg" width=22%>
 </a>
-
-<a href="/winter-workshop.html">
+&emsp;<a href="/winter-workshop.html">
     <img alt="Winter Workshop 2021" src="/images/cards/card-mini-ww2021.jpg" width=22%>
 </a>
