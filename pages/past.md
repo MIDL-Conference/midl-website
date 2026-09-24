@@ -30,7 +30,10 @@ title: Past editions and events
 </a>
 
 ### Past events
-<a href="/winter-workshop-25.html">
+<a href="/yr-showcase26.html">
+    <img alt="YR Showcase 2026" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
+</a>
+&emsp;<a href="/winter-workshop-25.html">
     <img alt="Winter workshop 2025" src="/images/cards/card-mini-ww2025.jpg" width=22%>
 </a>
 &emsp;<a href="/winter-workshop-24.html">

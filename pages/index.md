@@ -38,6 +38,9 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 <a href="/yr-showcase26.html">
     <img alt="YR Showcase 2026" src="/images/cards/card-mini-yr-showcase.jpg" width=22%>
 </a>
+<a href="/meet-the-clinic.html">
+    <img alt="Meet the Clinic" src="/images/cards/card-mini-meet-the-clinic.png" width=22%>
+</a>
 
 <!-- <a href="/conference-prep-workshop.html">
     <img alt="Pre-Conference Online Workshop" src="/images/cards/conferenceprepworkshop_square.png" width=22%>
