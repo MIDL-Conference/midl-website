@@ -6,8 +6,8 @@ title: Medical Imaging with Deep Learning
 <!-- [% .cards .large %] -->
 # Medical Imaging with Deep Learning
 <center>
-<a href="https://2026.midl.io">
-    <img alt="Taipei 2026" src="/images/cards/midl2027_image.jpeg" width="100%">
+<a href="https://2027.midl.io">
+    <img alt="Porto 2027" src="/images/cards/midl2027_image.jpeg" width="100%">
 </a>
 </center>
 <!-- [% / %] -->
