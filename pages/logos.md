@@ -30,6 +30,7 @@ This page contains all logos from the different MIDL editions, meant to be embed
 | MIDL 2024 Paris | `#AA0000` <div class="box" style="background-color: #AA0000"></div> |
 | MIDL 2025 Salt Lake City | `#FF862C` <div class="box" style="background-color: #FF862C"></div> |
 | MIDL 2026 Taipei | `#800080` <div class="box" style="background-color: #800080"></div> |
+| MIDL 2027 Porto | `#1BA37B` <div class="box" style="background-color: #1BA37B"></div> |
 
 </center>
 
@@ -89,3 +90,9 @@ This page contains all logos from the different MIDL editions, meant to be embed
 ![MIDL Taipei reversed](/logos/2026/logo_color.png)
 
 [SVG (white logo)](/logos/2026/logo_white.svg)
+
+## MIDL 2027 — Porto
+![MIDL Porto](/logos/2027/logo.png)
+![MIDL Porto reversed](/logos/2027/logo_color.png)
+
+[SVG (white logo)](/logos/2027/logo_white.svg)
