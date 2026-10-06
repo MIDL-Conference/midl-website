@@ -47,6 +47,7 @@ Note that the schedule is tentative and might evolve.
 
 * Anna Wundram, <anna.wundram@unilu.ch>
 * Anwai Archit, <anwai.archit@uni-goettingen.de>
+* Kerol Djoumessi, <kerol@aims.ac.za>
 * Savannah Hays, <shays6@jhu.edu>
 
 ## References
