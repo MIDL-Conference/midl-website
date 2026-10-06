@@ -18,7 +18,7 @@ We're also excited to welcome two clinicians to the conversation: PD Dr. Franz W
 
 Whether you're just starting to explore clinical collaborations or looking to deepen existing ones, this event offers a chance to learn directly from people on both sides of the table.
 
-The event will take place on **November 19th, 14:00-15:30 UTC+0** as a virtual Zoom event. Please register using the link below to receive Zoom links for the event. The event will be free of charge.
+The event will take place on **November 19th, 14:00-16:00 UTC+0** as a virtual Zoom event. Please register using the link below to receive Zoom links for the event. The event will be free of charge.
 
 {{ button("Registration Link", "https://forms.gle/eSSH52hhB6RZHRpP8") }}
 
@@ -26,7 +26,22 @@ Join us to learn how to turn cross-disciplinary connections into lasting, impact
 
 ## Timetable
 
-Programme TBD
+Note that the schedule is tentative and might evolve.
+
+(all times in UTC+0)
+
+[% .invisible-table %]
+
+| Program                                               | Time Slot     |
+| --------                                              | ---------     |
+| Welcome in Zoom                                       | 14:00 - 14:10 |
+| Talk by Assistant Professor Alessa Hering             | 14:10 - 14:30 |
+| Talk by MD PhD Ewoud Smit                             | 14:30 - 14:50 |
+| Talk by Associate Professor Jannis Hagenah            | 14:50 - 15:10 |
+| Talk by PD Dr. Franz Wegner                           | 15:10 - 15:30 |
+| Panel Discussion: "Ask the Experts" with all speakers | 15:30 - 16:00 |
+
+[% / %]
 
 ## Organization
 
