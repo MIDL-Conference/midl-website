@@ -5,6 +5,8 @@ title: Job board
 
 To add a new listing, please contact [webmaster@midl.io](mailto:webmaster@midl.io)
 
+* **RWTH Aachen** Department of Diagnostic and Interventional Radiology  [Fully Funded PhD Position on Differential Privacy for Medical Deep Learning (m/f/d)](https://arasteh.ai/opening-phd-differential-privacy.html). deadline: November 30, 2026
+
 * **University of Oklahoma** [Research Assistant Professor of Computer Science - Medical Imaging Informatics and AI for Translational Cancer Research](https://apply.interfolio.com/191967)
   
 * **University Medical Center Göttingen, Germany** [2 Research Fellow positions in Surgical Video Analysis](/job/CDS_JobOffering.pdf)
