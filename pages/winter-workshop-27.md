@@ -44,9 +44,9 @@ Note that the schedule is tentative and might evolve.
 
 | Program | Time Slot |
 | -------- | --------- |
-| Welcome in Zoom | 16:00 - 16:05 |
-| “Scientific Writing in the Age of LLMs” (Asst. Prof. Christian Baumgartner) | 16:05 - 16:40 |
-| Q&A: “Ask the expert” | 16:40 - 17:00 |
+| Welcome in Zoom | 15:00 - 15:05 |
+| “Scientific Writing in the Age of LLMs” (Asst. Prof. Christian Baumgartner) | 15:05 - 15:40 |
+| Q&A: “Ask the expert” | 15:40 - 16:00 |
 
 [% / %]
 
@@ -56,9 +56,9 @@ Note that the schedule is tentative and might evolve.
 
 | Program | Time Slot |
 | -------- | --------- |
-| Welcome in Zoom | 16:00 - 16:05 |
-| “How and why to review a paper (without Claude)” (Dr. Emma Stanley) | 16:05 - 16:40 |
-| Q&A: “Ask the expert” | 16:40 - 17:00 |
+| Welcome in Zoom | 15:00 - 15:05 |
+| “How and why to review a paper (without Claude)” (Dr. Emma Stanley) | 15:05 - 15:40 |
+| Q&A: “Ask the expert” | 15:40 - 16:00 |
 
 [% / %]
 
