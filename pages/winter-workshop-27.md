@@ -16,6 +16,8 @@ As in previous editions, the core idea is to prepare early career researchers fo
 
 The Winter Workshop 2026 will take place on **23 November 2026** and **14 December 2026** as a virtual Zoom event. Like last year, it is divided into two workshop tracks. The event will be free of charge. However, a mandatory registration is necessary, and Zoom links will be sent out after registration.
 
+{{ button("Winter Workshop Registration Link", "https://forms.gle/ApJ1S7LK8fkaA13z7") }}
+
 ---
 
 ## Workshops
