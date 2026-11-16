@@ -16,6 +16,8 @@ As in previous editions, the core idea is to prepare early career researchers fo
 
 The Winter Workshop 2026 will take place on **23 November 2026** and **14 December 2026** as a virtual Zoom event. Like last year, it is divided into two workshop tracks. The event will be free of charge. However, a mandatory registration is necessary, and Zoom links will be sent out after registration.
 
+{{ button("Winter Workshop Registration Link", "https://forms.gle/ApJ1S7LK8fkaA13z7") }}
+
 ---
 
 ## Workshops
@@ -44,9 +46,9 @@ Note that the schedule is tentative and might evolve.
 
 | Program | Time Slot |
 | -------- | --------- |
-| Welcome in Zoom | 16:00 - 16:05 |
-| “Scientific Writing in the Age of LLMs” (Asst. Prof. Christian Baumgartner) | 16:05 - 16:40 |
-| Q&A: “Ask the expert” | 16:40 - 17:00 |
+| Welcome in Zoom | 15:00 - 15:05 |
+| “Scientific Writing in the Age of LLMs” (Asst. Prof. Christian Baumgartner) | 15:05 - 15:40 |
+| Q&A: “Ask the expert” | 15:40 - 16:00 |
 
 [% / %]
 
@@ -56,9 +58,9 @@ Note that the schedule is tentative and might evolve.
 
 | Program | Time Slot |
 | -------- | --------- |
-| Welcome in Zoom | 16:00 - 16:05 |
-| “How and why to review a paper (without Claude)” (Dr. Emma Stanley) | 16:05 - 16:40 |
-| Q&A: “Ask the expert” | 16:40 - 17:00 |
+| Welcome in Zoom | 15:00 - 15:05 |
+| “How and why to review a paper (without Claude)” (Dr. Emma Stanley) | 15:05 - 15:40 |
+| Q&A: “Ask the expert” | 15:40 - 16:00 |
 
 [% / %]
 
