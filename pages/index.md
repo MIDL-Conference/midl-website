@@ -35,7 +35,10 @@ MIDL is inviting proposals to organize **[MIDL challenges](/call-for-challenges.
 </a>
 
 ### Upcoming events
-<a href="/meet-the-clinic.html">
+<a href="/winter-workshop-27.html">
+    <img alt="Winter Workshop 2026" src="/images/cards/card-mini-winter-workshop26.png" width=22%>
+</a>
+&emsp;<a href="/meet-the-clinic.html">
     <img alt="Meet the Clinic" src="/images/cards/card-mini-meet-the-clinic.png" width=22%>
 </a>
 
